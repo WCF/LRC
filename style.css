@@ -1,0 +1,126 @@
+    body {
+      font-family: sans-serif;
+      width: 100%;
+      margin: 0px;
+      padding: 0px;
+      text-align: center;
+    }
+    #pageContainer {
+      width: 1000px;
+      margin: 0px auto;
+      text-align: left;
+    }
+    ul {
+      margin-left: 0px;
+      padding-left: 0px;
+      text-indent: 0px;
+    }
+    li {
+      list-style: none;
+      text-indent: 0px;
+    }
+
+    header {
+      margin: 12px 0;
+    }
+    header > div, header time, header address {
+      display: inline-block;
+      vertical-align: top;
+    }
+    header time {
+      float: left;
+    }
+    header address {
+      float: right;
+    }
+    header address a {
+      color: inherit;
+      font-style: normal;
+    }
+    header > div {
+      margin-left: 36px;
+    }
+    header #logo {
+      float: left;
+    }
+    header nav ul {
+      float: right;
+      background-color: #E8E0C0;
+      color: #000;
+      padding: 6px 18px;
+      width: 800px;
+      /* text-align: right; */
+    }
+    header nav td {
+      text-align: center;
+      font-size: 16px;
+    }
+/*    header nav td.spacer {
+      width: 100%;
+    }
+*/    header nav li {
+      display: inline-block;
+      /*margin: 0px;
+      padding: 4pt;*/
+      /*border: 1px solid #FFF;*/
+      /*width: 70pt;*/
+      /*background-color: #DDD;*/
+      text-align: center;
+      font-size: 16px;
+      margin-left: 123px;
+    }
+    header nav li a {
+      color: #000;
+      text-decoration: none;
+    }
+    header nav li a:hover {
+      text-decoration: underline;
+    }
+    header nav li:first-child {
+      margin-left: 0px;
+    }
+
+    #linkList {
+      float: right;
+    }
+
+    #linkList li {
+      list-style: none;
+      width: 12em;
+      height: 14ex;
+      background-color: #DDD;
+      margin: 8pt;
+      padding: 8pt;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    table#events td.date {
+      width: 60pt;
+      height: 48pt;
+      background-color: #DDD;
+    }
+    table#events td.date span {
+      display: block;
+      font-size: 22pt;
+      text-align: center;
+      line-height: 20pt;
+    }
+    table#events td.date .day {
+      font-size: 11pt;
+      line-height: 10pt;
+    }
+    table#events td.title {
+      vertical-align: top;
+    }
+
+    footer {
+      clear: both;
+      background-color: #333;
+      padding: 5px;
+      color: #fff;
+      font-size: small;
+    }
+    footer * {
+
+    }
