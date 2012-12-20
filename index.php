@@ -1,29 +1,4 @@
-<!DOCTYPE HTML>
-
-<html>
-<head>
-  <title>Lincoln Road Chapel</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
-<body>
-  <div id="pageContainer">
-    <header>
-      <img id="logo" src="logo.jpg" width="125" height="58"/>
-      <div>
-        <nav>
-          <ul>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="programs.html">Programs</a></li>
-            <li><a href="sermons.html">Sermons</a></li>
-            <li><a href="calendar.html">Calendar</a></li>
-          </ul>
-        </nav>
-        <time>Sunday Services - 9:30am, 11:00am</time>
-        <address><a href="directions.html">145 Lincoln Road, Waterloo ON</a></address>
-      </div>
-    </header>
+<?php require_once('pop/pop.php'); ?>
 
     <img id="campfire" style="background-image:url('honne-campfire.jpg'); background-position: center center;" width="760" height="280"/>
 
@@ -65,10 +40,3 @@
         <td class="title">New Year's Day</td>
       </tr>
     </table>
-
-    <footer>
-      All glory to the hypnotoad.
-    </footer>
-  </div>
-</body>
-</html>
