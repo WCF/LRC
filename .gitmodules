@@ -1,0 +1,3 @@
+[submodule "pop"]
+	path = pop
+	url = https://github.com/1337/pop.git
