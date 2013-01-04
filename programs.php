@@ -1,54 +1,23 @@
-<!DOCTYPE HTML>
+<?php require_once('pop/pop.php'); ?>
+<h1>Programs</h1>
 
-<html>
-<head>
-  <title>Lincoln Road Chapel</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
-<body>
-  <div id="pageContainer">
-    <header>
-      <a href="index.html"><img id="logo" src="logo.jpg" width="125" height="58"/></a>
-      <div>
-        <nav>
-          <ul>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="about.html">About</a></li>
-            <li class="selected">Programs</a></li>
-            <li><a href="http://sermons.lincolnroadchapel.ca/">Sermons</a></li>
-            <li><a href="calendar.html">Calendar</a></li>
-          </ul>
-        </nav>
-        <time>Sunday Services - 9:30am, 11:00am</time>
-        <address><a href="directions.html">145 Lincoln Road, Waterloo ON</a></address>
-      </div>
-    </header>
-
-    <h1>Programs</h1>
-
-    <nav>
-      <ul>
-        <li><a href="programs-celebrate-recovery.html">Celebrate Recovery</a></li>
-        <li><a href="programs-children.html">Children</a></li>
-        <li><a href="programs-community-care.html">Community Care</a></li>
-        <li><a href="programs-library.html">Library</a></li>
-        <li><a href="programs-link-groups.html">Link Groups</a></li>
-        <li><a href="programs-mandarin-congregation.html">Mandarin Congregation</a></li>
-        <li><a href="programs-missions.html">Missions</a></li>
-        <li><a href="programs-prayer.html">Prayer</a></li>
-        <li><a href="programs-sports.html">Sports</a></li>
-        <li><a href="programs-students.html">Students</a></li>
-        <li><a href="programs-women.html">Women</a></li>
-        <li><a href="programs-worship.html">Worship</a></li>
-        <li><a href="programs-young-adults.html">Young Adults</a></li>
-        <li><a href="programs-volunteering.html">Volunteering</a></li>
-      </ul>
-    </nav>
-
-    <footer>
-      All glory to the hypnotoad.
-    </footer>
-  </div>
-</body>
-</html>
+<nav>
+    <ul>
+        <li><a href="programs-celebrate-recovery.php">Celebrate Recovery</a>
+        </li>
+        <li><a href="programs-children.php">Children</a></li>
+        <li><a href="programs-community-care.php">Community Care</a></li>
+        <li><a href="programs-library.php">Library</a></li>
+        <li><a href="programs-link-groups.php">Link Groups</a></li>
+        <li><a href="programs-mandarin-congregation.php">Mandarin
+            Congregation</a></li>
+        <li><a href="programs-missions.php">Missions</a></li>
+        <li><a href="programs-prayer.php">Prayer</a></li>
+        <li><a href="programs-sports.php">Sports</a></li>
+        <li><a href="programs-students.php">Students</a></li>
+        <li><a href="programs-women.php">Women</a></li>
+        <li><a href="programs-worship.php">Worship</a></li>
+        <li><a href="programs-young-adults.php">Young Adults</a></li>
+        <li><a href="programs-volunteering.php">Volunteering</a></li>
+    </ul>
+</nav>
