@@ -40,9 +40,9 @@
     define ('SITE_SECRET', '12345678'); // for ajax. Change immediately!
     define ('WRITE_ON_MODIFY', true); // if false, Model.put() is required
 
-    // SUBDIR: exclude prefix slash, include trailing slash.
+    // SUBDIR: value is environment-dependent.
     // define ('SUBDIR', substr (PATH, strlen ($_SERVER['DOCUMENT_ROOT'])));
-    define ('SUBDIR', substr(PATH, strlen($_SERVER['DOCUMENT_ROOT'])));
+    define ('SUBDIR', '');
 
     define ('WIN', 5);
     $win = WIN;

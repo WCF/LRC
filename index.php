@@ -7,16 +7,16 @@
 <section id="linkList">
     <ul>
         <li>
-            <a href="sermon.html">Sermon</a>
+            <a href="sermon.php">Sermon</a>
         </li>
         <li>
-            <a href="newsletter.html">Newsletter</a>
+            <a href="newsletter.php">Newsletter</a>
         </li>
         <li>
-            <a href="stuff.html">Stuff</a>
+            <a href="stuff.php">Stuff</a>
         </li>
         <li>
-            <a href="otherStuff.html">Stuff</a>
+            <a href="otherStuff.php">Stuff</a>
         </li>
 </section>
 
