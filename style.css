@@ -23,18 +23,18 @@ body {
 /* -------------- COLOURS & BGS -------------------*/
 body {
     color: #222;
-    background-color: #9a6f56;
-    background: url(imgs/bg.png) repeat;
+    background-color: #ddd;
+    /*background: url(imgs/bg.png) repeat;*/
 }
 .pageContainer {
-    background-color: #fdf6ea;
+    background-color: #fff;
 }
 .banner .bg {
     border-bottom: 1px solid #554306;
     background-color: #7b620d;
 
     background: -moz-linear-gradient(top, #492c0c, #7b4417);
-    background: -webkit-linear-gradient(top, #492c0c, #7b4417);
+    background: -webkit-linear-gradient(top, #18253d, #29416a);
     background: -ms-linear-gradient(top, #492c0c, #7b4417);
     background: -o-linear-gradient(top, #492c0c, #7b4417);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492c0c', endColorstr='#7b4417' );
@@ -43,7 +43,7 @@ body {
 .nav li a,
 #linkList li a,
 .event .date {
-    color: #eddbc0;
+    color: #fff;
     text-decoration: none;
 }
 .nav li a,
@@ -57,7 +57,7 @@ body {
 }
 #linkList li,
 .event .date {
-    background-color: #683b1d;
+    background-color: #213455;
 }
 
 /* -------------- MARGINS -------------------*/
