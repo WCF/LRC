@@ -1,156 +1,208 @@
-    body {
-      font-family: arial;
-      width: 100%;
-      margin: 0px;
-      padding: 0px;
-      text-align: center;
-    }
-    .pageContainer {
-      width: 1000px;
-      margin: 0px auto;
-      text-align: left;
-    }
-    .banner {
-      height: 100px;
-    }
-    .banner .bg {
-      width: 100%;
-      height: 45px;
-      background-color: #7b620d;
-      border-bottom: 1px solid #554306;
-      
-      background: -moz-linear-gradient(top,  #81cbfd,  #65afe1);
-      background: -webkit-linear-gradient(top,  #492c0c,  #7b4417);
-      background: -ms-linear-gradient(top,  #81cbfd,  #65afe1);
-      background: -o-linear-gradient(top,  #81cbfd,  #65afe1);
-      filter:  progid:DXImageTransform.Microsoft.gradient( startColorstr='#81cbfd', endColorstr='#65afe1' );
-      background: linear-gradient(top,  #81cbfd,  #65afe1);
-    	
-      -webkit-box-shadow: 0 0 3px rgba(0,0,0,0.5);
-      -moz-box-shadow: 0 0 3px rgba(0,0,0,0.5);
-      box-shadow: 0 0 3px rgba(0,0,0,0.5);
-    }
-    /*.logoContainer {
-      margin-left: 20px;
-      position: absolute;
-      padding: 10px 30px;
-      background-color: #fff;
-      
-      -webkit-box-shadow: 0 0 2px rgba(0,0,0,0.5);
-      -moz-box-shadow: 0 0 2px rgba(0,0,0,0.5);
-      box-shadow: 0 1px 2px rgba(0,0,0,0.5);
-      
-      -webkit-border-radius: 0 0 5px 5px;
-      -moz-border-radius: 0 0 5px 5px;
-      border-radius: 0 0 10px 10px;
-    }*/
-    .logoContainer {
-      position: absolute;
-      margin-left: 10px;
-    }
-    ul {
-      margin: 0px;
-      padding: 0px;
-      text-indent: 0px;
-    }
-    li {
-      list-style: none;
-      text-indent: 0px;
-    }
-    header > div, header time, header address {
-      display: inline-block;
-      vertical-align: top;
-    }
-    header time {
-      float: left;
-    }
-    header address {
-      float: right;
-    }
-    header address a {
-      color: inherit;
-      font-style: normal;
-    }
-    header > div {
-      margin-left: 36px;
-    }
-    #logo {
-      float: left;
-    }
-    .nav {
-      margin-left: 235px;
-      float: right;
-      font-family: century gothic, arial;
-    }
-    .nav ul {
-      float: right;
-      color: #000;
-      padding: 13px 0;
-    }
-    .nav td {
-      text-align: center;
-      font-size: 16px;
-    }
-    .nav li {
-      display: inline-block;
-      text-align: center;
-      font-size: 14px;
-      margin: 0 50px;
-    }
-    .nav li a {
-      color: #eddbc0;
-      text-decoration: none;
-      text-shadow: 0 0 10px #000;
-    }
-    .nav li a:hover {
-      color: #f6ead8;
-      text-shadow: 0 0 20px #eddbc0;
-    }
-    .nav li:first-child {
-      margin-left: 0px;
-    }
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+/* -------------- FONTS -------------------*/
+body {
+    font-family: georgia, serif;
+}
+.nav,
+#linkList,
+.event .date {
+    font-family: century gothic, arial;
+}
+.title {
+    font-weight: bold;
+}
+.event .description {
+    color: rgba(0,0,0,0.6);
+}
 
-    #linkList {
-      float: right;
-    }
+/* -------------- COLOURS & BGS -------------------*/
+body {
+    color: #222;
+    background-color: #9a6f56;
+    background: url(imgs/bg.png) repeat;
+}
+.pageContainer {
+    background-color: #fdf6ea;
+}
+.banner .bg {
+    border-bottom: 1px solid #554306;
+    background-color: #7b620d;
 
-    #linkList li {
-      list-style: none;
-      width: 12em;
-      height: 14ex;
-      background-color: #DDD;
-      margin: 8pt;
-      padding: 8pt;
-      border-radius: 8px;
-      text-align: center;
-    }
+    background: -moz-linear-gradient(top, #492c0c, #7b4417);
+    background: -webkit-linear-gradient(top, #492c0c, #7b4417);
+    background: -ms-linear-gradient(top, #492c0c, #7b4417);
+    background: -o-linear-gradient(top, #492c0c, #7b4417);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492c0c', endColorstr='#7b4417' );
+    background: linear-gradient(top, #492c0c, #7b4417);
+}
+.nav li a,
+#linkList li a,
+.event .date {
+    color: #eddbc0;
+    text-decoration: none;
+}
+.nav li a,
+#linkList li a {
+    text-shadow: 0 0 10px #000;
+}
+.nav li a:hover,
+#linkList li a:hover {
+    color: #f6ead8;
+    text-shadow: 0 0 20px #eddbc0;
+}
+#linkList li,
+.event .date {
+    background-color: #683b1d;
+}
 
-    table#events td.date {
-      width: 60pt;
-      height: 48pt;
-      background-color: #DDD;
-    }
-    table#events td.date span {
-      display: block;
-      font-size: 22pt;
-      text-align: center;
-      line-height: 20pt;
-    }
-    table#events td.date .day {
-      font-size: 11pt;
-      line-height: 10pt;
-    }
-    table#events td.title {
-      vertical-align: top;
-    }
+/* -------------- MARGINS -------------------*/
+.campfire,
+#eventList {
+    margin-left: 25px;
+}
+#linkList,
+.time.address {
+    margin-right: 25px;
+}
 
-    footer {
-      clear: both;
-      background-color: #333;
-      padding: 5px;
-      color: #fff;
-      font-size: small;
-    }
-    footer * {
+/* -------------- POSITIONING -------------------*/
+.pageContainer {
+    width: 1000px;
+    margin: 0px auto;
+    text-align: left;
+}
+.banner .pageContainer {
+    width: 1050px;
+}
+.pageContainer,
+.banner .bg {
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.banner {
+    position: relative;
+    z-index: 1;
+}
+.banner .bg {
+    width: 100%;
+    height: 45px;
+}
+.logoContainer {
+    position: absolute;
+    margin-left: 10px;
+}
+#logo {
+    float: left;
+    width: 204px;
+    height: 111px;
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    text-indent: 0px;
+}
+li {
+    list-style: none;
+    text-indent: 0px;
+}
+.nav {
+    float: right;
+    padding-right: 25px;
+}
+.nav ul {
+    float: right;
+    padding: 13px 0;
+}
+.nav td {
+    text-align: center;
+    font-size: 16px;
+}
+.nav li {
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    margin: 0 50px;
+}
+.nav li:first-child {
+    margin-left: 0px;
+}
+.time.address {
+    float: right;
+    padding: 10px 0 40px 0;
+}
+.time.address li {
+    display: inline-block;
+    padding-left: 50px;
+}
 
-    }
+#linkList {
+    float: right;
+}
+
+#linkList li {
+    list-style: none;
+    width: 12em;
+    height: 15ex;
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 8px;
+    text-align: center;
+}
+.campfire,
+.event {
+    display: inline-block;
+}
+.event .date,
+.event .content {
+    float: left;
+}
+#campfireImg {
+    background-image:url('honne-campfire.jpg'); 
+    background-position: center center;
+    height: 280px;
+}
+#campfireImg,
+#eventList,
+.event {
+    width: 700px;
+}
+#eventList {
+    margin-bottom: 30px;
+}
+.event .date {
+    height: 60px;
+    width: 70px;
+    padding: 6px 0 4px 0;
+    vertical-align: center;
+}
+.event .content {
+    height: 60px;
+    width: 620px;
+    padding: 5px 0 0 10px;
+}
+.date span {
+    display: block;
+    font-size: 22pt;
+    text-align: center;
+}
+.date .small {
+    font-size: 11pt;
+    line-height: 10pt;
+}
+
+footer {
+    clear: both;
+    background-color: #333;
+    padding: 5px;
+    color: #fff;
+    font-size: small;
+}
+footer * {
+
+}
