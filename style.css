@@ -30,15 +30,14 @@ body {
     background-color: #fff;
 }
 .banner .bg {
-    border-bottom: 1px solid #554306;
-    background-color: #7b620d;
+    background-color: #2e5b84;
 
-    background: -moz-linear-gradient(top, #492c0c, #7b4417);
+    /*background: -moz-linear-gradient(top, #492c0c, #7b4417);
     background: -webkit-linear-gradient(top, #18253d, #29416a);
     background: -ms-linear-gradient(top, #492c0c, #7b4417);
     background: -o-linear-gradient(top, #492c0c, #7b4417);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492c0c', endColorstr='#7b4417' );
-    background: linear-gradient(top, #492c0c, #7b4417);
+    background: linear-gradient(top, #492c0c, #7b4417);*/
 }
 .nav li a,
 #linkList li a,
@@ -46,18 +45,17 @@ body {
     color: #fff;
     text-decoration: none;
 }
-.nav li a,
+/*.nav li a,
 #linkList li a {
     text-shadow: 0 0 10px #000;
-}
+}*/
 .nav li a:hover,
 #linkList li a:hover {
-    color: #f6ead8;
-    text-shadow: 0 0 20px #eddbc0;
+    text-decoration: underline;
 }
 #linkList li,
 .event .date {
-    background-color: #213455;
+    background-color: #2e5b84;
 }
 
 /* -------------- MARGINS -------------------*/
@@ -79,12 +77,12 @@ body {
 .banner .pageContainer {
     width: 1050px;
 }
-.pageContainer,
+/*.pageContainer,
 .banner .bg {
     -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
     -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
     box-shadow: 0 0 5px rgba(0,0,0,0.5);
-}
+}*/
 .banner {
     position: relative;
     z-index: 1;
