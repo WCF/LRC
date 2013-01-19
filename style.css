@@ -82,12 +82,11 @@ body {
 .banner .pageContainer {
     width: 1050px;
 }
-/*.pageContainer,
 .banner .bg {
     -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
     -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
     box-shadow: 0 0 5px rgba(0,0,0,0.5);
-}*/
+}
 .banner {
     position: relative;
     z-index: 1;
@@ -95,6 +94,7 @@ body {
 .banner .bg {
     width: 100%;
     height: 45px;
+    border-bottom: 1px solid #3b2925;
 }
 .logoContainer {
     position: absolute;
@@ -104,6 +104,16 @@ body {
     float: left;
     width: 204px;
     height: 111px;
+}
+.banner .bg,
+.logoContainer {
+    position: fixed;
+}
+.main .main {
+    margin-top: 45px;
+}
+.banner .bg {
+    margin-top: -45px;
 }
 ul {
     margin: 0px;
