@@ -105,16 +105,6 @@ body {
     width: 204px;
     height: 111px;
 }
-.banner .bg,
-.logoContainer {
-    position: fixed;
-}
-.main .main {
-    margin-top: 45px;
-}
-.banner .bg {
-    margin-top: -45px;
-}
 ul {
     margin: 0px;
     padding: 0px;
