@@ -57,7 +57,7 @@ body {
     text-decoration: underline;
 }
 #linkList li {
-    background-color: #f4ddcd;
+    background-color: rgb(221,202,173);
 }
 .event .date {
     background-color: #ddd;
