@@ -30,7 +30,7 @@ body {
     background-color: #fff;
 }
 .banner .bg {
-    background-color: #2e5b84;
+    background-color: #683b1d;
 
     /*background: -moz-linear-gradient(top, #492c0c, #7b4417);
     background: -webkit-linear-gradient(top, #18253d, #29416a);
@@ -57,7 +57,7 @@ body {
     text-decoration: underline;
 }
 #linkList li {
-    background-color: #c6daed;
+    background-color: #f4ddcd;
 }
 .event .date {
     background-color: #ddd;
