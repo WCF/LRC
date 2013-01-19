@@ -39,10 +39,13 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492c0c', endColorstr='#7b4417' );
     background: linear-gradient(top, #492c0c, #7b4417);*/
 }
-.nav li a,
+.nav li a{
+    color: #fff;
+    text-decoration: none;
+}
 #linkList li a,
 .event .date {
-    color: #fff;
+    color: #222;
     text-decoration: none;
 }
 /*.nav li a,
@@ -53,9 +56,11 @@ body {
 #linkList li a:hover {
     text-decoration: underline;
 }
-#linkList li,
+#linkList li {
+    background-color: #c6daed;
+}
 .event .date {
-    background-color: #2e5b84;
+    background-color: #ddd;
 }
 
 /* -------------- MARGINS -------------------*/
