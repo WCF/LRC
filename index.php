@@ -1,7 +1,7 @@
 <?php require_once('pop/pop.php'); ?>
 
 <img id="campfire"
-     style="background-image:url('honne-campfire.jpg'); background-position: center center;"
+     style="background-image:url('/static/img/honne-campfire.jpg'); background-position: center center;"
      width="760" height="280"/>
 
 <section id="linkList">
