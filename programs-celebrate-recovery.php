@@ -9,7 +9,7 @@
 <br><br>
 
 <p>
-<span class="emph">Celebrate Recovery</span> is a Christ-Centered Recovery Program for all life's hurts, habits & hang ups. 
+Celebrate Recovery is a Christ-Centered Recovery Program for all life's hurts, habits & hang ups. 
 </p><p>
 The purpose of the Celebrate Recovery ministry is to fellowship and celebrate God's healing power in
 our lives through the <a href="static/pdf/CR_Eight_Recovery_Principles.pdf">8 Recovery Principles</a>. By working and applying these Biblical principles, we begin to grow spiritually. We become free from our addictive, compulsive and dysfunctional behaviors.

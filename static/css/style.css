@@ -5,6 +5,12 @@
       padding: 0px;
       text-align: center;
     }
+    h4 {
+        margin-bottom: 0;
+    }
+    h4+p {
+        margin-top: 0;
+    }
     #pageContainer {
       width: 1000px;
       margin: 0px auto;
