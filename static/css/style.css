@@ -1,147 +1,235 @@
-    body {
-      font-family: sans-serif;
-      width: 100%;
-      margin: 0px;
-      padding: 0px;
-      text-align: center;
-    }
-    #pageContainer {
-      width: 1000px;
-      margin: 0px auto;
-      text-align: left;
-    }
-    nav ul {
-      margin-left: 0px;
-      padding-left: 0px;
-      text-indent: 0px;
-    }
-    nav li {
-      list-style: none;
-      text-indent: 0px;
-    }
+body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+/* -------------- FONTS -------------------*/
+body {
+    font-family: georgia, serif;
+}
+.nav,
+#linkList,
+.event .date {
+    font-family: century gothic, arial;
+}
+.title {
+    font-weight: bold;
+}
+.event .description {
+    color: rgba(0,0,0,0.6);
+}
 
-    header {
-      margin: 12px 0;
-    }
-    header > div, header time, header address {
-      display: inline-block;
-      vertical-align: top;
-    }
-    header time {
-      float: left;
-    }
-    header address {
-      float: right;
-    }
-    header address a {
-      color: inherit;
-      font-style: normal;
-    }
-    header > div {
-      margin-left: 36px;
-    }
-    header #logo {
-      float: left;
-    }
-    header nav ul {
-      float: right;
-      background-color: #E8E0C0;
-      color: #000;
-      padding: 6px 18px;
-      width: 800px;
-      /* text-align: right; */
-    }
-    header nav td {
-      text-align: center;
-      font-size: 16px;
-    }
-/*    header nav td.spacer {
-      width: 100%;
-    }
-*/    header nav li {
-      display: inline-block;
-      /*margin: 0px;
-      padding: 4pt;*/
-      /*border: 1px solid #FFF;*/
-      /*width: 70pt;*/
-      /*background-color: #DDD;*/
-      text-align: center;
-      font-size: 16px;
-      margin-left: 123px;
-    }
-    header nav li a {
-      color: #000;
-      text-decoration: none;
-    }
-    header nav li a:hover {
-      text-decoration: underline;
-    }
-    header nav li:first-child {
-      margin-left: 0px;
-    }
+/* -------------- COLOURS & BGS -------------------*/
+body {
+    color: #222;
+    background-color: #ddd;
+    /*background: url(imgs/bg.png) repeat;*/
+}
+.pageContainer {
+    background-color: #fff;
+}
+.banner .bg {
+    background-color: #683b1d;
 
-    #linkList {
-      float: right;
-    }
+    /*background: -moz-linear-gradient(top, #492c0c, #7b4417);
+    background: -webkit-linear-gradient(top, #18253d, #29416a);
+    background: -ms-linear-gradient(top, #492c0c, #7b4417);
+    background: -o-linear-gradient(top, #492c0c, #7b4417);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492c0c', endColorstr='#7b4417' );
+    background: linear-gradient(top, #492c0c, #7b4417);*/
+}
+.nav li a{
+    color: #fff;
+    text-decoration: none;
+}
+#linkList li a,
+.event .date {
+    color: #222;
+    text-decoration: none;
+}
+/*.nav li a,
+#linkList li a {
+    text-shadow: 0 0 10px #000;
+}*/
+.nav li a:hover,
+#linkList li a:hover {
+    text-decoration: underline;
+}
+#linkList li {
+    background-color: rgb(221,202,173);
+}
+.event .date {
+    background-color: #ddd;
+}
 
-    #linkList li {
-      list-style: none;
-      width: 12em;
-      height: 14ex;
-      background-color: #DDD;
-      margin: 8pt;
-      padding: 8pt;
-      border-radius: 8px;
-      text-align: center;
-    }
+/* -------------- MARGINS -------------------*/
+.main {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 8px;
+}
+.time.address {
+    margin-right: 25px;
+}
 
-    td {
-        vertical-align: top;
-    }
-    table#events td.date {
-      width: 60pt;
-      height: 48pt;
-      background-color: #DDD;
-    }
-    table#events td.date span {
-      display: block;
-      font-size: 22pt;
-      text-align: center;
-      line-height: 20pt;
-    }
-    table#events td.date .day {
-      font-size: 11pt;
-      line-height: 10pt;
-    }
-    table#events td.title {
-      vertical-align: top;
-    }
-    .CR-groups,
-    .CR-group-categories {
-      margin-left: 0px;
-      padding-left: 0px;
-      text-indent: 0px;
-    }
-    .CR-group-categories {
-        font-weight: bold;
-        margin: 0;
-    }
-    .CR-groups {
-        font-weight: normal;
-        margin-left: 20px;
-    }
-    .CR-groups>li,
-    .CR-group-categories>li {
-        list-style: none;
-    }
+/* -------------- POSITIONING -------------------*/
+.pageContainer {
+    width: 1000px;
+    margin: 0px auto;
+    text-align: left;
+}
+.banner .pageContainer {
+    width: 1050px;
+}
+.banner .bg {
+    -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+.banner {
+    position: relative;
+    z-index: 1;
+}
+.banner .bg {
+    width: 100%;
+    height: 45px;
+    border-bottom: 1px solid #3b2925;
+}
+.logoContainer {
+    position: absolute;
+    margin-left: 10px;
+}
+#logo {
+    float: left;
+    width: 204px;
+    height: 111px;
+}
+.nav ul {
+    margin: 0px;
+    padding: 0px;
+    text-indent: 0px;
+}
+.nav li {
+    list-style: none;
+    text-indent: 0px;
+}
+.nav {
+    float: right;
+    padding-right: 25px;
+}
+.nav ul {
+    float: right;
+    padding: 13px 0;
+}
+.nav td {
+    text-align: center;
+    font-size: 16px;
+}
+.nav li {
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    margin: 0 50px;
+}
+.nav li:first-child {
+    margin-left: 0px;
+}
+.time.address {
+    float: right;
+    padding: 10px 0 40px 0;
+}
+.time.address li {
+    display: inline-block;
+    padding-left: 50px;
+}
 
-    footer {
-      clear: both;
-      background-color: #333;
-      padding: 5px;
-      color: #fff;
-      font-size: small;
-    }
-    footer * {
+#linkList {
+    float: right;
+}
 
-    }
+#linkList li {
+    list-style: none;
+    width: 12em;
+    height: 15ex;
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 8px;
+    text-align: center;
+}
+.campfire,
+.event {
+    display: inline-block;
+}
+.event .date,
+.event .content {
+    float: left;
+}
+#campfireImg {
+    background-image:url('../img/honne-campfire.jpg');
+    background-position: center center;
+    height: 280px;
+}
+#campfireImg,
+#eventList,
+.event {
+    width: 700px;
+}
+#eventList {
+    margin-bottom: 30px;
+}
+.event .date {
+    height: 60px;
+    width: 70px;
+    padding: 6px 0 4px 0;
+    vertical-align: center;
+}
+.event .content {
+    height: 60px;
+    width: 620px;
+    padding: 5px 0 0 10px;
+}
+.date span {
+    display: block;
+    font-size: 22pt;
+    text-align: center;
+}
+.date .small {
+    font-size: 11pt;
+    line-height: 10pt;
+}
+
+footer {
+    clear: both;
+    background-color: #333;
+    padding: 5px;
+    color: #fff;
+    font-size: small;
+}
+footer * {
+
+}
+td {
+    vertical-align: top;
+}
+.CR-groups,
+.CR-group-categories {
+    margin-left: 0px;
+    padding-left: 0px;
+    text-indent: 0px;
+}
+.CR-group-categories {
+    font-weight: bold;
+    margin: 0;
+}
+.CR-groups {
+    font-weight: normal;
+    margin-left: 20px;
+}
+.CR-groups>li,
+.CR-group-categories>li {
+    list-style: none;
+}
+.main {
+    clear: both;
+}
