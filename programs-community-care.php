@@ -2,11 +2,11 @@
 <h1><a href="programs.php">Programs</a></h1>
 <h2>Community Care</h2>
 
-<img src="static/img/staff/debbie-laginskie.jpg" style="height: 100px;">
+<img class="float-left" src="static/img/staff/debbie-laginskie.jpg">
 <p>Debbie Laginskie</p>
 <p>Community Care Pastor</p>
 <p>Email: <a href="mailto:debbie@lincolnroadchapel.ca">debbie@lincolnroadchapel.ca</a></p>
-<p>519-747-2211ext 222</p>
+<p>519-747-2211 ext. 222</p>
  
 <blockquote>"We believe it is important to be a caring community - to care for one another in a holistic way: physically, emotionally, spiritually and relationally. It's a team effort! We also want to let that care flow out of us to the community that Jesus has placed around us. Keeping the balance of caring for the immediate church family and caring for those in the community can be challenging but we aim for it with God's help."</blockquote>
 

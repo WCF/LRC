@@ -1,7 +1,7 @@
 <?php require_once('pop/pop.php'); ?>
 <h1><a href="programs.php">Programs</a></h1>
 <h2>Celebrate Recovery&reg;</h2>
-<img src="static/img/titanic-beach.jpg">
+<img class="float-left" src="static/img/titanic-beach.jpg">
 <blockquote>
 "At Celebrate Recovery, God gave me in recovery, peace of mind, freedom from addiction, a new identity in Christ, a support group with caring people, opportunity to share my experience, strength & hope with others who struggle and to experience unconditional acceptance without judgment from fellow Christians."
 </blockquote>

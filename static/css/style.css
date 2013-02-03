@@ -74,6 +74,11 @@ body {
 }
 
 /* -------------- POSITIONING -------------------*/
+img.float-left {
+    float: left;
+    padding: 0 15px 15px 0;
+    max-height: 200px;
+}
 .pageContainer {
     width: 1000px;
     margin: 0px auto;

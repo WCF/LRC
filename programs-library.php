@@ -2,7 +2,7 @@
 <h1><a href="programs.php">Programs</a></h1>
 <h2>Library</h2>
 
-<img src="static/img/staff/angelica-allen.jpg" style="height: 100px;">
+<img class="float-left" src="static/img/staff/angelica-allen.jpg">
 <p>Angelica Allen</p>
 <p>Library Coordinator</p>
 <p>Email: <a href="mailto:library@lincolnroadchapel.ca">library@lincolnroadchapel.ca</a></p>

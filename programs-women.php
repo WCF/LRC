@@ -1,7 +1,7 @@
 <?php require_once('pop/pop.php'); ?>
 <h1><a href="programs.php">Programs</a></h1>
 <h2>Women</h2>
-<img src="static/img/staff/debbie-laginskie.jpg">
+<img class="float-left" src="static/img/staff/debbie-laginskie.jpg">
 <p>
 Women's Programs at Lincoln Road Chapel provide opportunities for women to grow in their personal faith and knowledge of the Lord, share their faith and connect and encourage one another in all that life holds.  We know that women today have varying needs and preferences. Their circumstances and seasons of life are diverse as well! In light of these things, we have a variety of programs available. Women are free to participate in all or some of the activities, depending on their lifestyle and season of life.
 </p><p>
