@@ -24,7 +24,7 @@ body {
 body {
     color: #222;
     background-color: #ddd;
-    /*background: url(imgs/bg.png) repeat;*/
+    /*background: url(/static/img/bg.png) repeat;*/
 }
 .pageContainer {
     background-color: #fff;
@@ -64,21 +64,16 @@ body {
 }
 
 /* -------------- MARGINS -------------------*/
-.main {
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 8px;
+.campfire,
+#eventList {
+    margin-left: 25px;
 }
+#linkList,
 .time.address {
     margin-right: 25px;
 }
 
 /* -------------- POSITIONING -------------------*/
-img.float-left {
-    float: left;
-    padding: 0 15px 15px 0;
-    max-height: 200px;
-}
 .pageContainer {
     width: 1000px;
     margin: 0px auto;
@@ -110,12 +105,12 @@ img.float-left {
     width: 204px;
     height: 111px;
 }
-.nav ul {
+ul {
     margin: 0px;
     padding: 0px;
     text-indent: 0px;
 }
-.nav li {
+li {
     list-style: none;
     text-indent: 0px;
 }
@@ -171,7 +166,7 @@ img.float-left {
     float: left;
 }
 #campfireImg {
-    background-image:url('../img/honne-campfire.jpg');
+    background-image:url('/static/img/honne-campfire.jpg');
     background-position: center center;
     height: 280px;
 }
@@ -213,34 +208,4 @@ footer {
 }
 footer * {
 
-}
-td {
-    vertical-align: top;
-}
-.CR-groups,
-.CR-group-categories {
-    margin-left: 0px;
-    padding-left: 0px;
-    text-indent: 0px;
-}
-.CR-group-categories {
-    font-weight: bold;
-    margin: 0;
-}
-.CR-groups {
-    font-weight: normal;
-    margin-left: 20px;
-}
-.CR-groups>li,
-.CR-group-categories>li {
-    list-style: none;
-}
-.main {
-    clear: both;
-}
-h4 {
-    margin-bottom: 0;
-}
-h4+p {
-    margin-top: 0;
 }

@@ -9,44 +9,45 @@
 </head>
 {% if true %} {% endif %}
 <body>
-<div class="banner">
-    <div class="bg">
-        <div class="pageContainer banner">
-            <div class="logoContainer">
-                <img id="logo" src="/static/img/logo.jpg"/>
-            </div>
-            <div class="nav">
-                <ul>
-                    <li><a href="/contact.php">Contact</a></li>
-                    <li><a href="/about.php">About</a></li>
-                    <li><a href="/programs.php">Programs</a></li>
-                    <li><a href="/sermons.php">Sermons</a></li>
-                    <li><a href="/calendar.php">Calendar</a></li>
-                </ul>
+    <div class="banner">
+        <div class="bg">
+            <div class="pageContainer banner">
+                <div class="logoContainer">
+                    <a href="/"><img id="logo" src="static/img/logo-with-bg.png"/></a>
+                </div>
+                <div class="nav">
+                    <ul>
+                        <li><a href="/contact.php">Contact</a></li>
+                        <li><a href="/about.php">About</a></li>
+                        <li><a href="/programs.php">Programs</a></li>
+                        <li><a href="/sermons.php">Sermons</a></li>
+                        <li><a href="/calendar.php">Calendar</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="main pageContainer">
-    <div class="time address">
-        <ul>
-            <li class="time">
-                Sunday Services: 9:00am - 10:30am, 11:00 am - 12:30am
-            </li>
-            <li class="address">
-                <a href="/directions.php"> 145 Lincoln Road, Waterloo, ON </a>
-            </li>
-        </ul>
+    <div class="pageContainer">
+        <div class="time address">
+            <ul>
+                <li class="time">
+                    Sunday Services: 9:00am - 10:30am, 11:00 am - 12:30am
+                </li>
+                <li class="address">
+                    <a href="/directions.php"> 145 Lincoln Road, Waterloo, ON </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="main">
+
+            {{ content }}
+
+        </div>
     </div>
-    <div class="main">
 
-        {{ content }}
-
-    </div>
-    <footer>
-        All glory to the hypnotoad.
-    </footer>
+    <footer>&copy; Lincoln Road Chapel</footer>
 </div>
 </body>
 </html>
