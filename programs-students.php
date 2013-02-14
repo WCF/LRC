@@ -10,10 +10,10 @@
 </b></p>
 
 <p>
-    "The Student Ministries at Lincoln Road Chapel are all
-    about loving God and loving other people as we try to figure
+    "The Student Ministries at Lincoln Road Chapel are all
+    about loving God and loving other people as we try to figure
     out what life is really about! Whether you are in your preteens
-    at Xtreme Youth or your teenage years at the LINK, these
+    at Xtreme Youth or your teenage years at the LINK, these
     communities of faith would love to have you included!"
     <br />
     <br />
