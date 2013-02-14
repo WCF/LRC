@@ -19,7 +19,7 @@ Quote from a Women's Ministry participant
 <p>
 <b>Day</b>: Thursdays<br>
 <b>Time</b>: 9:30 - 11 am<br>
-<b>JAM</b>: An exciting PROGRAM for your children ages 1-5 (babies 0-1 stay with moms). Details <a href="static/pdf/Women_JAM">here</a>.
+<b>JAM</b>: An exciting program for your children ages 1-5 (babies 0-1 stay with moms). Details <a href="static/pdf/Women_JAM">here</a>.
 </p>
 
 <h4>Connections</h4>
