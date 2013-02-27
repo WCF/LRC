@@ -24,7 +24,7 @@ body {
 /* -------------- COLOURS & BGS -------------------*/
 body {
     color: #222;
-    background: #ddd url(/static/img/paper_fibers.png) repeat;
+    background: #ddd url(static/img/paper_fibers.png) repeat;
 }
 .pageContainer {
     background-color: #fff;

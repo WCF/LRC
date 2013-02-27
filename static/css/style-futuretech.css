@@ -24,7 +24,7 @@ body {
 body {
     color: #222;
     background-color: #ddd;
-    /*background: url(/static/img/bg.png) repeat;*/
+    /*background: url(static/img/bg.png) repeat;*/
 }
 .pageContainer {
     background-color: #fff;
@@ -166,7 +166,7 @@ li {
     float: left;
 }
 #campfireImg {
-    background-image:url('/static/img/honne-campfire.jpg');
+    background-image:url('static/img/honne-campfire.jpg');
     background-position: center center;
     height: 280px;
 }
