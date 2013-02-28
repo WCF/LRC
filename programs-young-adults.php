@@ -15,13 +15,13 @@
 <p>
     PJ Wong <br>
     Phone: 519-747-2211 ext 234 <br>
-    Email: <a href="mailto:pj[at]lincolnroadchapel[dot]ca">pj[at]lincolnroadchapel[dot]ca</a>
+    Email: <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a>
 </p>
 <p>
     The Young Adult Ministry at Lincoln Road Chapel seems to be always changing
-    and just getting better! On sunday evenings (September-April), we meet in
+    and just getting better! On Sunday evenings (September-April), we meet in
     the cafe for small groups, worship nights and to serve in the community. In
-    the summer, we have a get together on the last sunday of the month. If you
+    the summer, we have a get together on the last Sunday of the month. If you
     are in college or university, working after highschool or taking some time
     to find out what life is all about, we'd love to have you become a part of
     the crew!

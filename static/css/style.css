@@ -79,6 +79,11 @@ img.float-left {
     padding: 0 15px 15px 0;
     max-height: 200px;
 }
+img.float-right {
+    float: right;
+    padding: 0 0 15px 15px;
+    max-height: 200px;
+}
 .pageContainer {
     width: 1000px;
     margin: 0px auto;
