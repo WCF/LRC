@@ -1,5 +1,5 @@
 <?php require_once('pop/pop.php'); ?>
-<h1><a href="/programs.php">Programs</a></h1>
+<h1><a href="programs.php">Programs</a></h1>
 <h2>Worship</h2>
 
 
@@ -48,7 +48,7 @@
         </li>
     </ul>
     *To view our 2013 Planning Team Schedule, click <a
-        href="/pgm-download_media.php?name=LRC_WPT_MASTER_Schedule_as_of_January_21_2013.pdf">here</a>.
+        href="pgm-download_media.php?name=LRC_WPT_MASTER_Schedule_as_of_January_21_2013.pdf">here</a>.
 </div>
 
 <div>

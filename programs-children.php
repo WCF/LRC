@@ -1,5 +1,5 @@
 <?php require_once('pop/pop.php'); ?>
-<h1><a href="/programs.php">Programs</a></h1>
+<h1><a href="programs.php">Programs</a></h1>
 <h2>Children</h2>
 <div>
     <img src="http://lincolnroadchapel.ca/images/linkin_kids_logo_2010.png"
@@ -55,7 +55,7 @@
                 Volunteer Scheule
             </a>
             <br/>
-            <a href="/pgm-download_media.php?name=LK_registration_form_March11_2012.pdf">Child
+            <a href="pgm-download_media.php?name=LK_registration_form_March11_2012.pdf">Child
                 Registration Form</a>
             <br/>
             <a href="pgm-download_media.php?name=LK_ConsentDisclaimer2013.pdf">
@@ -80,15 +80,15 @@
     <p>
         The main programming is on Sunday mornings but there are also special
         events monthly and seasonal programs. Linkin’ Kids includes
-        <a href="/index.php?pr=Nursery">
+        <a href="index.php?pr=Nursery">
             nursery
         </a>
         (0-23 months),
-        <a href="/index.php?pr=Preschool">
+        <a href="index.php?pr=Preschool">
             preschool
         </a>
         (2 year olds ~ SK), and
-        <a href="/index.php?pr=Elementary">
+        <a href="index.php?pr=Elementary">
             elementary (grade 1 ~ 5) students.
     </p>
 
@@ -99,7 +99,7 @@
         Family Winter Celebration, and a Carnival. A week-long Vacation Bible
         School program is also offered in August for children from Lincoln Road
         Chapel and the community.  For a list of upcoming events, visit our
-        <a href="/index.php?pr=Upcoming_Events">Upcoming Events</a>
+        <a href="index.php?pr=Upcoming_Events">Upcoming Events</a>
         page.
     </p>
 
@@ -121,7 +121,7 @@
         <a href="mailto:nicole[at]lincolnroadchapel[dot]ca">
             nicole[at]lincolnroadchapel[dot]ca</a>
         and check the
-        <a href="/opportunities.php">Opportunities</a>
+        <a href="opportunities.php">Opportunities</a>
         page for application forms.
     </p>
 </div>

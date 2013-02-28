@@ -1,5 +1,5 @@
 <?php require_once('pop/pop.php'); ?>
-<h1><a href="/programs.php">Programs</a></h1>
+<h1><a href="programs.php">Programs</a></h1>
 <h2>Library</h2>
 
 <img class="float-left" src="static/img/staff/angelica-allen.jpg">
