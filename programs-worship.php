@@ -26,7 +26,7 @@
             keep the details of Sunday mornings straight is part of His great
             plan for LRC."<br><br>
             <b>Phone</b>: 519-747-2211 ext. 0 <br>
-            <b>Contact</b> :Tiffany Svensson-Knight
+            <b>Contact</b>: Tiffany Svensson-Knight
         </td>
     </tr>
     </tbody>
@@ -84,5 +84,5 @@
     each week.
     <br>
     If you are interested in serving with us, please contact Tiffany at: <a
-        href="mailto:worship[at]lincolnroadchapel[dot]ca">worship[at]lincolnroadchapel[dot]ca</a>
+        href="mailto:worship@lincolnroadchapel.ca">worship@lincolnroadchapel.ca</a>
 </div>

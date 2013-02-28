@@ -9,24 +9,24 @@
     <br><br>
     To apply to volunteer, please contact Nicole,our Volunteer Security
     Coordinator:
-    <a href="mailto:nicole[at]lincolnroadchapel[dot]ca">nicole[at]lincolnroadchapel[dot]ca</a>
+    <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
 </p>
 
 <h3>Information</h3>
 
 <ul>
-    <li>Audio Visual: contact harry[at]arci[dot]ca</li>
-    <li>Library: contact angelica[dot]pchef[at]gto[dot]net</li>
+    <li>Audio Visual: contact <a href="mailto:harry@arci.ca">harry@arci.ca</a></li>
+    <li>Library: contact <a href="mailto:angelica.pchef@gto.net">angelica.pchef@gto.net</a></li>
     <li>Lincoln Welcome Services: contact
-        brenda[dot]kirkwood[at]gmail]dot]com
+        <a href="mailto:brenda.kirkwood@gmail.com">brenda.kirkwood@gmail.com</a>
     </li>
-    <li>Linkgroup Leader or Host: contact david[at]lincolnroadchapel[dot]ca
+    <li>Linkgroup Leader or Host: contact <a href="mailto:david@lincolnroadchapel.ca">david@lincolnroadchapel.ca</a>
     </li>
-    <li>Linkin' Kids: contact: nicole[at]lincolnroadchapel[dot]ca</li>
-    <li>Nursery Volunteer: contact nicole[at]lincolnroadchapel[dot]ca</li>
-    <li>Women's Programs: contact debbie[at]lincolnroadchapel[dot]ca</li>
-    <li>Worship Leader or Musician: contact gern[at]rogers[dot]com</li>
-    <li>Youth Helper: contact pj[at]lincolnroadchapel[dot]ca</li>
+    <li>Linkin' Kids: contact: <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a></li>
+    <li>Nursery Volunteer: contact <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a></li>
+    <li>Women's Programs: contact <a href="mailto:debbie@lincolnroadchapel.ca">debbie@lincolnroadchapel.ca</a></li>
+    <li>Worship Leader or Musician: contact <a href="mailto:gern@rogers.com">gern@rogers.com</a></li>
+    <li>Youth Helper: contact <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a></li>
 </ul>
 
 <h4>Volunteer application forms for working with children and youth</h4>

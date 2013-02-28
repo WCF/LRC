@@ -17,7 +17,7 @@
     communities of faith would love to have you included!"
     <br />
     <br />
-    <a href="mailto:pj%5Bat%5Dlincolnroadchapel%5Bdot%5Dca">pj[at]lincolnroadchapel[dot]ca</a>
+    <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a>
 </p>
 <div>
     <b>Student Ministries</b>
