@@ -1,5 +1,5 @@
 <?php require_once('pop/pop.php'); ?>
-<h1><a href="about.html">About</a></h1>
+<h1><a href="about.php">About</a></h1>
 <h2>Distinctives</h2>
 
 <p>
@@ -28,7 +28,7 @@ The leadership of Lincoln shows its gratitude for the excellent facility that Go
 
 <h4>Ministry to the Broken</h4>
 <p>
-Lincoln has become, through God's grace, a place of safety and healing for people dealing with hurts, addictions and other difficulties in life's journey, through hosting a Biblical 12 step support ministry and provision of office space for counselors. For more information see <a href="programs-celebrate-recovery.php">Celebrate Recovery</a>. 
+Lincoln has become, through God's grace, a place of safety and healing for people dealing with hurts, addictions and other difficulties in life's journey, through hosting a Biblical 12 step support ministry and provision of office space for counselors. For more information see <a href="programs-celebrate-recovery.php">Celebrate Recovery</a>.
 </p>
 
 <h4>Friendliness</h4>

@@ -1,5 +1,5 @@
 <?php require_once('pop/pop.php'); ?>
-<h1><a href="about.html">About</a></h1>
+<h1><a href="about.php">About</a></h1>
 <h2>Beliefs</h2>
 
 <h4>The Bible</h4>
@@ -17,8 +17,8 @@ There is one God, eternal, existing in three persons - Father, Son and Holy Spir
 The Lord Jesus Christ is fully God, born of a virgin and sinlessly perfect. His sacrifice is substitutionary and representative. He rose bodily from the dead and ascended to His Father's right hand, where He now ministers as the believer's Great High Priest.
 </p>
 
-<h4>Salvation</h4> 
-<p>Each member of the human race is sinful and re-birth by the Holy Spirit is absolutely essential for the salvation of man. Redemption is wholly by the blood of Christ and salvation is by grace, through faith in the Lord Jesus Christ. 
+<h4>Salvation</h4>
+<p>Each member of the human race is sinful and re-birth by the Holy Spirit is absolutely essential for the salvation of man. Redemption is wholly by the blood of Christ and salvation is by grace, through faith in the Lord Jesus Christ.
 </p>
 
 <h4>Eternal Life</h4>
@@ -26,7 +26,7 @@ The Lord Jesus Christ is fully God, born of a virgin and sinlessly perfect. His 
 Every believer possesses eternal life and is justified, sanctified and indwelt by the Holy Spirit, and by Him is empowered to live a Godly life. The believer is secure for all eternity. However a believer can, through sin, lose his fellowship, joy, power, testimony and reward and incur the Father's chastisement. Relationship is eternal, being established by new birth; fellowship however, is dependent upon obedience.
 </p>
 
-<h4>Judgment</h4> 
+<h4>Judgment</h4>
 <p>
 There will be a resurrection of the believer unto eternal life and of the unbeliever unto eternal punishment.
 </p>
