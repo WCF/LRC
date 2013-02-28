@@ -249,3 +249,17 @@ h4 {
 h4+p {
     margin-top: 0;
 }
+
+.contacts img {
+    height: 145px;
+}
+.contacts ul {
+    margin: 4px 40px;
+    padding: 0px;
+}
+.contacts li {
+    list-style: none;
+}
+.contacts tr:nth-child(even) td:nth-child(2) {
+    background-color: #EEF
+}

@@ -1,225 +1,259 @@
 <?php require_once('pop/pop.php'); ?>
 <h1>Contact</h1>
 
-<table>
-  <thead>
-    <tr>
-      <th>Contact</th>
-      <th>Area of Ministry</th>
-      <th>Email</th>
-      <th>Ext.</th>
-    </tr>
-  </thead>
+For general information, call the church office at 519-747-2211 Ext. 0 or email <a href="mailto:info@lincolnroadchapel.ca">info@lincolnroadchapel.ca</a>.
+
+<table class="contacts">
   <tbody>
     <tr>
-      <td>Angelica Allen</td>
-      <td>Library</td>
-      <td><a href="mailto:library@lincolnroadchapel.ca">library@lincolnroadchapel.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>David Chang</td>
-      <td>Mandarin Congregation</td>
-      <td><a href="mailto:info@lincolnroadchapel.ca">info@lincolnroadchapel.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Harry Chin</td>
-      <td>Saturday Afternoon Sports</td>
-      <td><a href="mailto:harry@arci.ca">harry@arci.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Harry Chin</td>
-      <td>Audio &amp; Visual</td>
-      <td><a href="mailto:harry@arci.ca">harry@arci.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Nicole Fisher</td>
-      <td>Children/Adults Plan to Protect</td>
-      <td><a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Tim Fisher</td>
-      <td>Leadership Chairman</td>
-      <td><a href="tawfisher@gmail.com">tawfisher@gmail.com</a></td>
       <td></td>
+      <td>
+        Angelica Allen &ndash; <a href="mailto:library@lincolnroadchapel.ca">library@lincolnroadchapel.ca</a>
+        <ul>
+          <li>Library</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Beth Fournier</td>
-      <td>Website</td>
-      <td><a href="mailto:beth@lincolnroadchapel.ca">beth@lincolnroadchapel.ca</a></td>
-      <td>225</td>
+      <td><img src="static/img/staff/david-chang.jpg"></td>
+      <td>
+        David Chang
+        <ul>
+          <li>Mandarin Congregation &ndash; Elder</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Beth Fournier</td>
-      <td>Leadership Support</td>
-      <td><a href="mailto:beth@lincolnroadchapel.ca">beth@lincolnroadchapel.ca</a>      </td>
-      <td>225</td>
+      <td></td>
+      <td>
+        Harry Chin &ndash; <a href="mailto:harry@arci.ca">harry@arci.ca</a>
+        <ul>
+          <li>Audio &amp; Visual</li>
+          <li>Saturday Afternoon Sports</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Bruce Fournier</td>
-      <td>Executive Pastor</td>
-      <td><a href="mailto:bruce@lincolnroadchapel.ca">bruce@lincolnroadchapel.ca</a></td>
-      <td>229</td>
+      <td></td>
+      <td>
+        Nicole Fisher &ndash; <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
+        <ul>
+          <li>Children/Adults Plan to Protect</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Michelle Gowland</td>
-      <td>Celebrate Recovery</td>
-      <td><a href="mailto:michelle@lincolnroadchapel.ca">michelle@lincolnroadchapel.ca</a></td>
-      <td>228</td>
+      <td></td>
+      <td>
+        Tim Fisher &ndash; <a href="mailto:tawfisher@gmail.com">tawfisher@gmail.com</a>
+        <ul>
+          <li>Leadership Chairman</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Joan Habermehl</td>
-      <td>Decorating</td>
-      <td><a href="mailto:lhabermehl@rogers.com">lhabermehl@rogers.com</a></td>
-      <td>0</td>
+      <td><img src="static/img/staff/beth-fournier.jpg"></td>
+      <td>
+        Beth Fournier &ndash; <a href="mailto:beth@lincolnroadchapel.ca">beth@lincolnroadchapel.ca</a> &ndash; Phone Ext. 225
+        <ul>
+          <li>Leadership Support</li>
+          <li>Website</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Steve Habermehl</td>
-      <td>Worship Leader's Coordinator</td>
-      <td><a href="mailto:gern@rogers.com">gern@rogers.com</a></td>
-      <td>0</td>
+      <td><img src="static/img/staff/bruce-fournier.jpg"></td>
+      <td>
+        Bruce Fournier &ndash; <a href="mailto:bruce@lincolnroadchapel.ca">bruce@lincolnroadchapel.ca</a> &ndash; Phone Ext. 229
+        <ul>
+          <li>Executive Pastor</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Bill Hillis</td>
-      <td>Finances</td>
-      <td><a href="mailto:billhillis@rogers.com">billhillis@rogers.com</a></td>
-      <td>0</td>
+      <td><img src="static/img/staff/michelle-gowland.jpg"></td>
+      <td>
+        Michelle Gowland &ndash; <a href="mailto:michelle@lincolnroadchapel.ca">michelle@lincolnroadchapel.ca</a> &ndash; Phone Ext. 228
+        <ul>
+          <li>Celebrate Recovery</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Faye Hillis</td>
-      <td>Kitchen/Cafe</td>
-      <td><a href="mailto:fayehillis@rogers.com">fayehillis@rogers.com</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Joan Habermehl &ndash; <a href="mailto:lhabermehl@rogers.com">lhabermehl@rogers.com</a>
+        <ul>
+          <li>Decorating</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Jenn Holbrook</td>
-      <td>Children's Program Director</td>
-      <td><a href="mailto:jenn@lincolnroadchapel.ca">jenn@lincolnroadchapel.ca</a></td>
-      <td>235</td>
+      <td></td>
+      <td>
+        Steve Habermehl &ndash; <a href="mailto:gern@rogers.com">gern@rogers.com</a>
+        <ul>
+          <li>Worship Leader's Coordinator</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Brenda Kirkwood</td>
-      <td>Lincoln Welcome Services</td>
-      <td><a href="mailto:brenda.kirkwood@gmail.com">brenda.kirkwood@gmail.com</a></td>
-      <td>O</td>
+      <td></td>
+      <td>
+        Bill Hillis &ndash; <a href="mailto:billhillis@rogers.com">billhillis@rogers.com</a>
+        <ul>
+          <li>Finances</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Michael Kirkwood</td>
-      <td>Treasurer</td>
-      <td><a href="mailto:michael_kirkwood@hotmail.com">michael_kirkwood@hotmail.com</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Faye Hillis &ndash; <a href="mailto:fayehillis@rogers.com">fayehillis@rogers.com</a>
+        <ul>
+          <li>Kitchen/Cafe</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>David Knight</td>
-      <td>Special Events</td>
-      <td><a href="mailto:david@lincolnroadchapel.ca">david@lincolnroadchapel.ca</a></td>
-      <td>232</td>
+      <td></td>
+      <td>
+        Jenn Holbrook &ndash; <a href="mailto:jenn@lincolnroadchapel.ca">jenn@lincolnroadchapel.ca</a> &ndash; Phone Ext. 235
+        <ul>
+          <li>Children's Program Director</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>David Knight</td>
-      <td>LinkGroups</td>
-      <td><a href="mailto:david@lincolnroadchapel.ca">david@lincolnroadchapel.ca</a></td>
-      <td>232</td>
+      <td></td>
+      <td>
+        Brenda Kirkwood &ndash; <a href="mailto:brenda.kirkwood@gmail.com">brenda.kirkwood@gmail.com</a>
+        <ul>
+          <li>Lincoln Welcome Services</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>David Knight</td>
-      <td>Missions/Pastor of Spiritual Growth</td>
-      <td><a href="mailto:david@lincolnroadchapel.ca">david@lincolnroadchapel.ca</a></td>
-      <td>232</td>
+      <td></td>
+      <td>
+        Michael Kirkwood &ndash; <a href="mailto:michael_kirkwood@hotmail.com">michael_kirkwood@hotmail.com</a>
+        <ul>
+          <li>Treasurer</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Susan Ladan</td>
-      <td>Office Manager</td>
-      <td><a href="mailto:susan@lincolnroadchapel.ca">susan@lincolnroadchapel.ca</a></td>
-      <td>221</td>
+      <td><img src="static/img/staff/david-knight.jpg"></td>
+      <td>
+        David Knight &ndash; <a href="mailto:david@lincolnroadchapel.ca">david@lincolnroadchapel.ca</a> &ndash; Phone Ext. 232
+        <ul>
+          <li>Missions/Pastor of Spiritual Growth</li>
+          <li>LinkGroups</li>
+          <li>Special Events</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Susan Ladan</td>
-      <td>Bookings</td>
-      <td><a href="mailto:susan@lincolnroadchapel.ca">susan@lincolnroadchapel.ca</a></td>
-      <td>221</td>
+      <td><img src="static/img/staff/susan-ladan.jpg"></td>
+      <td>
+        Susan Ladan &ndash; <a href="mailto:susan@lincolnroadchapel.ca">susan@lincolnroadchapel.ca</a> &ndash; Phone Ext. 221
+        <ul>
+          <li>Office Manager</li>
+          <li>Bookings</li>
+          <li>Bulletin</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Susan Ladan</td>
-      <td>Bulletin</td>
-      <td><a href="mailto:susan@lincolnroadchape.lca">susan@lincolnroadchapel.ca</a></td>
-      <td>221</td>
+      <td><img src="static/img/staff/debbie-laginskie.jpg"></td>
+      <td>
+        Debbie Laginskie &ndash; <a href="mailto:debbie@lincolnroadchapel.ca">debbie@lincolnroadchapel.ca</a> &ndash; Phone Ext. 222
+        <ul>
+          <li>Pastor of Community Care</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Debbie Laginskie</td>
-      <td>Pastor of Community Care</td>
-      <td><a href="mailto:david@lincolnroadchapel.ca">debbie@lincolnroadchapel.ca</a></td>
-      <td>222</td>
+      <td><img src="static/img/staff/randy-laginskie.jpg"></td>
+      <td>
+        Randy Laginskie &ndash; <a href="mailto:randy@lincolnroadchapel.ca">randy@lincolnroadchapel.ca</a> &ndash; Phone Ext. 223
+        <ul>
+          <li>Building Manager</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Randy Laginskie</td>
-      <td>Building Manager</td>
-      <td><a href="mailto:randy@lincolnroadchapel.ca">randy@lincolnroadchapel.ca</a></td>
-      <td>223</td>
+      <td></td>
+      <td>
+        Matt Mikitka &ndash; <a href="mailto:matt@mikitka.net">matt@mikitka.net</a>
+        <ul>
+          <li>Sunday Evening Basketball</li>
+          <li>Boys Basketball (Grade 5-8)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Matt Mikitka</td>
-      <td>Sunday Evening Basketball</td>
-      <td><a href="mailto:matt@mikitka.net">matt@mikitka.net</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Bill Ruegg &ndash; <a href="mailto:wruegg@rogers.ca">wruegg@rogers.ca</a>
+        <ul>
+          <li>Baseball</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Matt Mikitka</td>
-      <td>Basketball (Sunday evenings)</td>
-      <td><a href="mailto:matt@mikitka.net">matt@mikitka.net</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Renate Ruppel &ndash; <a href="mailto:renateruppel@gmail.com">renateruppel@gmail.com</a>
+        <ul>
+          <li>Prayer</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Matt Mikikta</td>
-      <td>Boys Basketball (Grade 5-8)</td>
-      <td><a href="mailto:matt@mikitka.net%20">matt@mikitka.net</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Nuke Shim &ndash; <a href="mailto:nshim@rogers.com">nshim@rogers.com</a>
+        <ul>
+          <li>Mandarin Outreach</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Bill Ruegg</td>
-      <td>Baseball</td>
-      <td><a href="mailto:wruegg@rogers.ca">wruegg@rogers.ca</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Pam Davey
+        <ul>
+          <li>Volleyball</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Renate Ruppel</td>
-      <td>Prayer</td>
-      <td><a href="mailto:renateruppel@gmail.com">renateruppel@gmail.com</a></td>
-      <td>0</td>
+      <td></td>
+      <td>
+        Tiffany Svensson &ndash; <a href="mailto:worship@lincolnroadchapel.ca">worship@lincolnroadchapel.ca</a>
+        <ul>
+          <li>Worship Planning</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Nuke Shim</td>
-      <td>Mandarin Outreach</td>
-      <td><a href="mailto:nshim@rogers.com">nshim@rogers.com</a></td>
-      <td>0</td>
+      <td><img src="static/img/staff/pj-wong.jpg"></td>
+      <td>
+        PJ Wong &ndash; <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a> &ndash; Phone Ext. 234
+        <ul>
+          <li>Youth and Young Adults</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>Pam Davey</td>
-      <td>Volleyball</td>
-      <td><a href="mailto:info@lincolnroadchapel.ca">info@lincolnroadchapel.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>Tiffany Svensson</td>
-      <td>Worship Planning</td>
-      <td><a href="mailto:worship@lincolnroadchapel.ca">worship@lincolnroadchapel.ca</a></td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>PJ Wong</td>
-      <td>Youth and Young Adults</td>
-      <td><a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a></td>
-      <td>234</td>
-    </tr>
-    <tr>
-      <td>Liangin Yin</td>
-      <td>Mandarin Fellowship</td>
-      <td><a href="mailto:yinliangin@yahoo.ca">yinliangin@yahoo.ca</a></td>
-      <td>O</td>
+      <td></td>
+      <td>
+        Liangin Yin &ndash; <a href="mailto:yinliangin@yahoo.ca">yinliangin@yahoo.ca</a>
+        <ul>
+          <li>Mandarin Fellowship</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
