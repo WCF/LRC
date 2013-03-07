@@ -10,8 +10,8 @@
     // make the interface change colour.
     $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);
     $hex = dechex(intval(ord(substr($hostname, 0, 1)) / 10) * 11) .
-        dechex(intval(ord(substr($hostname, 1, 1)) / 10) * 11) .
-        dechex(intval(ord(substr($hostname, 2, 1)) / 10) * 11);
+           dechex(intval(ord(substr($hostname, 1, 1)) / 10) * 11) .
+           dechex(intval(ord(substr($hostname, 2, 1)) / 10) * 11);
     define ("HEADER_COLOR", "#$hex"); // any html colour will do
     define ("BACKUP_BEFORE_SAVING", true);
     define ("SHOW_HIDDEN_OBJECTS", true); //only checks if objects' names begin with '.'

@@ -263,3 +263,7 @@ h4+p {
 .contacts tr:nth-child(even) td:nth-child(2) {
     background-color: #EEF
 }
+
+.buble {
+    *display: none;
+}
