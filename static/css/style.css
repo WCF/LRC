@@ -84,6 +84,9 @@ img.float-right {
     padding: 0 0 15px 15px;
     max-height: 200px;
 }
+.float-clear {
+    clear: both;
+}
 .pageContainer {
     width: 1000px;
     margin: 0px auto;
