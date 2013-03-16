@@ -46,7 +46,7 @@
 <h3>Volunteers</h3>
 <p>Each class is staffed by a lead shepherd and two volunteers from the congregation. All volunteers have completed
     police checks and are trained in our child abuse policy.   When you are interested in volunteering, talk to Nicole
-    at <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a> or 519-747-2211 ext 235..</p>
+    at <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a> or 519-747-2211 ext. 235.</p>
 
 <h3>Snack</h3>
 <p>A snack will be provided for your child. It usually consists of arrowroot or graham cookies or whole grain crackers

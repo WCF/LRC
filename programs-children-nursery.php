@@ -2,7 +2,7 @@
 <h1><a href="programs.php">Programs</a></h1>
 <h2>Children - Nursery Program</h2>
 
-<img src="/static/img/nusery-kid.jpg" class="float-right">
+<img src="/static/img/nursery-kid.jpg" class="float-right">
 <p>The nursery at Lincoln Road Chapel is designed for newborns and toddlers.  It is a safe and loving environment.  We
     provide the nursery so parents can attend our worship service while knowing that their child is receiving the best
     care possible.</p>
