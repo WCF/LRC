@@ -44,7 +44,7 @@
 <p>Seasonal events are provided to give children and parents an opportunity to connect outside of the Sunday service.
 Events we have done in the past include Amazing Race Family Edition, Banana Day, Family Winter Celebration, and a
 Carnival. A week-long Vacation Bible School program is also offered in August for children from Lincoln Road Chapel and
-the community. For a list of upcoming events, visit our <a href="index.php?pr=Upcoming_Events">Upcoming Events</a>
+the community. For a list of upcoming events, visit our <a href="calendar.php">Upcoming Events</a>
 page.</p>
 
 <p>All volunteers in Linkin' Kids programs are screened through an application, police checks, and reference checks with
