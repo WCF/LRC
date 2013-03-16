@@ -6,29 +6,27 @@
 <blockquote>"I learn about being special and kind in Sunday School and I like to colour and play with the dolls."<br>
     ~Preschool Student</blockquote>
 
-<p>
-    <table>
-        <tr>
-            <td>Date:</td>
-            <td>Sundays</td>
-        </tr>
-        <tr>
-            <td>Time:</td>
-            <td>9:00 am - 10:25 am and 11:00 am - 12:25 am</td>
-        </tr>
-        <tr>
-            <td>Location:</td>
-            <td>
-                Lincoln Road Chapel, Owl Daycare Building
-                <ul>
-                    <li>2 &amp; 3 Year Olds - Preschool Room 1</li>
-                    <li>JK (4 &amp; 5 Year Olds) - Preschool Room 2</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-    Note: Children move to the next age level in the months of January, May and September.
-</p>
+<table>
+    <tr>
+        <td>Date:</td>
+        <td>Sundays</td>
+    </tr>
+    <tr>
+        <td>Time:</td>
+        <td>9:00 am - 10:25 am and 11:00 am - 12:25 am</td>
+    </tr>
+    <tr>
+        <td>Location:</td>
+        <td>
+            Lincoln Road Chapel, Owl Daycare Building
+            <ul>
+                <li>2 &amp; 3 Year Olds - Preschool Room 1</li>
+                <li>JK (4 &amp; 5 Year Olds) - Preschool Room 2</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<p>Note: Children move to the next age level in the months of January, May and September.</p>
 
 <h3>Curriculum</h3>
 <p>Our curriculum, "In the Beginning" will help your child grow more aware of God's love, care and help in their
@@ -66,17 +64,16 @@
 
 <h3>Wellness Policy</h3>
 <p>We seek to provide a healthy environment for your children and ask that you do not bring your child to Sunday School
-    if you observe any of the following:
-    <ul>
-        <li>Fever</li>
-        <li>Discharge in or around the eyes</li>
-        <li>Excessive discharge from the nose</li>
-        <li>Excessive coughing</li>
-        <li>Diarrhea</li>
-        <li>Rash (other than diaper rash)</li>
-        <li>Known communicable disease</li>
-    </ul>
-</p>
+    if you observe any of the following:</p>
+<ul>
+    <li>Fever</li>
+    <li>Discharge in or around the eyes</li>
+    <li>Excessive discharge from the nose</li>
+    <li>Excessive coughing</li>
+    <li>Diarrhea</li>
+    <li>Rash (other than diaper rash)</li>
+    <li>Known communicable disease</li>
+</ul>
 
 <p>Our volunteers follow the same guidelines.  If your child becomes ill while in the nursery, you will be notified
     immediately.</p>

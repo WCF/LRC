@@ -7,23 +7,21 @@
     provide the nursery so parents can attend our worship service while knowing that their child is receiving the best
     care possible.</p>
 
-<p>
-    <table>
-        <tr>
-            <td>Date:</td>
-            <td>Sundays</td>
-        </tr>
-        <tr>
-            <td>Time:</td>
-            <td>9:00 am - 10:25 am and 11:00 am - 12:25 am</td>
-        </tr>
-        <tr>
-            <td>Location:</td>
-            <td>Lincoln Road Chapel, Nursery</td>
-        </tr>
-    </table>
-    Note: Children move to the next age level in the months of January, May and September.
-</p>
+<table>
+    <tr>
+        <td>Date:</td>
+        <td>Sundays</td>
+    </tr>
+    <tr>
+        <td>Time:</td>
+        <td>9:00 am - 10:25 am and 11:00 am - 12:25 am</td>
+    </tr>
+    <tr>
+        <td>Location:</td>
+        <td>Lincoln Road Chapel, Nursery</td>
+    </tr>
+</table>
+<p>Note: Children move to the next age level in the months of January, May and September.</p>
 
 <h3>Number System</h3>
 <p>When you drop your child off at the nursery, your child will be assigned a number.  This number is listed beside your
@@ -54,17 +52,16 @@
 
 <h3>Wellness Policy</h3>
 <p>We seek to provide a healthy environment for your children and ask that you do not bring your child to the nursery if
-    you observe any of the following:
-    <ul>
-        <li>Fever</li>
-        <li>Discharge in or around the eyes</li>
-        <li>Excessive discharge from the nose</li>
-        <li>Excessive coughing</li>
-        <li>Diarrhea</li>
-        <li>Rash (other than diaper rash)</li>
-        <li>Known communicable disease</li>
-    </ul>
-</p>
+    you observe any of the following:</p>
+<ul>
+    <li>Fever</li>
+    <li>Discharge in or around the eyes</li>
+    <li>Excessive discharge from the nose</li>
+    <li>Excessive coughing</li>
+    <li>Diarrhea</li>
+    <li>Rash (other than diaper rash)</li>
+    <li>Known communicable disease</li>
+</ul>
 
 <p>Our volunteers follow the same guidelines.  If your child becomes ill while in the nursery, you will be notified
     immediately.  All toys in both nurseries are cleaned weekly.</p>

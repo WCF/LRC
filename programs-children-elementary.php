@@ -6,55 +6,53 @@
 <blockquote>"I like Sunday School because I like watching movies about Jesus and seeing my friends."<br>
     ~Grade 4 Student</blockquote>
 
-<p>
-    <table>
-        <tr>
-            <td>Date:</td>
-            <td>Sundays</td>
-        </tr>
-        <tr>
-            <td>Time:</td>
-            <td>9:00 am - 10:25 am and 11:00 am - 12:25 am</td>
-        </tr>
-        <tr>
-            <td>Location:</td>
-            <td>
-                Lincoln Road Chapel
-                <ul>
-                    <li>Drop-off - Registration Desk at the Visitor Centre</li>
-                    <li>9 am
-                        <ul>
-                            <li>SK - Grade 1 - Room 211</li>
-                            <li>Grade 2 &amp; 3 - Room 215</li>
-                            <li>Grade 4 &amp; 5 - Room 261</li>
-                        </ul>
-                    </li>
-                    <li>11 am
-                        <ul>
-                            <li>SK - Grade 1 - Room 211</li>
-                            <li>Grade 2 &amp; 3 Boys - Room 215</li>
-                            <li>Grade 1 &amp; 4 Girls - Room 261</li>
-                            <li>Digging Deeper (Grade 4 &amp; 5) - Room 214</li>
-                        </ul>
-                    </li>
-                </ul>
-            </td>
-        </tr>
-    </table>
-    Note: Children move to the next age level in the months of January, May and September.
-</p>
+<table>
+    <tr>
+        <td>Date:</td>
+        <td>Sundays</td>
+    </tr>
+    <tr>
+        <td>Time:</td>
+        <td>9:00 am - 10:25 am and 11:00 am - 12:25 am</td>
+    </tr>
+    <tr>
+        <td>Location:</td>
+        <td>
+            Lincoln Road Chapel
+            <ul>
+                <li>Drop-off - Registration Desk at the Visitor Centre</li>
+                <li>9 am
+                    <ul>
+                        <li>SK - Grade 1 - Room 211</li>
+                        <li>Grade 2 &amp; 3 - Room 215</li>
+                        <li>Grade 4 &amp; 5 - Room 261</li>
+                    </ul>
+                </li>
+                <li>11 am
+                    <ul>
+                        <li>SK - Grade 1 - Room 211</li>
+                        <li>Grade 2 &amp; 3 Boys - Room 215</li>
+                        <li>Grade 1 &amp; 4 Girls - Room 261</li>
+                        <li>Digging Deeper (Grade 4 &amp; 5) - Room 214</li>
+                    </ul>
+                </li>
+            </ul>
+        </td>
+    </tr>
+</table>
+<p>Note: Children move to the next age level in the months of January, May and September.</p>
 
 <h3>Curriculum</h3>
 <p>Our new curriculum, 252 Basics, is action-packed and involves a high-energy large group worship and teaching time
     called Power UP! as well as intentional small group shepherding.</p>
 <p>The lessons are built around three Basic Truths every child should embrace according to what Jesus modeled in
-    Luke 2:52.
-    <ul>
-        <li>I need to make the wise choice.</li>
-        <li>I can trust God no matter what.</li>
-        <li>I should treat others the way I want to be treated.</li>
-    </ul>
-    Every week children are reminded of these Basic Truths and learn a new key point derived from the Bible lesson.
+    Luke 2:52.</p>
+<ul>
+    <li>I need to make the wise choice.</li>
+    <li>I can trust God no matter what.</li>
+    <li>I should treat others the way I want to be treated.</li>
+</ul>
+<p>Every week children are reminded of these Basic Truths and learn a new key point derived from the Bible lesson.
     Every month we focus on a different Christ-like virtue and we work on a memory verse for the entire month that is
     related to that months virtue.</p>
 

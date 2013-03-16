@@ -26,20 +26,18 @@
 
 <p>The main programming is on Sunday mornings but there are also special events monthly and seasonal programs.</p>
 
-<p>
-    Linkin' Kids includes
-    <ul>
-        <li>
-            <a href="programs-children-nursery.php">Nursery</a> (0-23 months),
-        </li>
-        <li>
-            <a href="programs-children-preschool.php">preschool</a> (2 year olds ~ SK), and
-        </li>
-        <li>
-            <a href="programs-children-elementary.php">elementary</a> (grade 1 ~ 5) students.
-        </li>
-    </ul>
-</p>
+<p>Linkin' Kids includes</p>
+<ul>
+    <li>
+        <a href="programs-children-nursery.php">Nursery</a> (0-23 months),
+    </li>
+    <li>
+        <a href="programs-children-preschool.php">preschool</a> (2 year olds ~ SK), and
+    </li>
+    <li>
+        <a href="programs-children-elementary.php">elementary</a> (grade 1 ~ 5) students.
+    </li>
+</ul>
 
 <p>Seasonal events are provided to give children and parents an opportunity to connect outside of the Sunday service.
 Events we have done in the past include Amazing Race Family Edition, Banana Day, Family Winter Celebration, and a
