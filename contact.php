@@ -34,7 +34,7 @@ For general information, call the church office at 519-747-2211 Ext. 0 or email 
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td><img src="static/img/staff/nicole-fisher.jpg"></td>
       <td>
         Nicole Fisher &ndash; <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
         <ul>
