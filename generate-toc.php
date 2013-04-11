@@ -8,10 +8,11 @@
         // Scan through the directory looking for files whose names start with $filenamePrefix
         if ($dirhandle = opendir('.')) {
             while (($file = readdir($dirhandle)) !== false) {
-                if (preg_match("/^$filenamePrefix/i", $file)) {
+                $pattern = '/^' . $filenamePrefix . '/i';
+                if (preg_match($pattern, $file)) {
 
                     // Scan through the file one line at a time.
-                    $filehandle = @fopen($file, "r");
+                    $filehandle = @fopen($file, 'r');
                     if ($filehandle) {
                         while (($buffer = fgets($filehandle, 256)) !== false) {
 
