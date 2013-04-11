@@ -4,7 +4,7 @@
     <ul>
         <?php
             foreach (generateTOC('about-') as $key => $value) {
-                echo '<li><a href="' . $key . '">' . $value . '</a></li>';
+                echo '<li><a href="' . urlencode($key) . '">' . strip_tags($value) . '</a></li>';
             }
         ?>
     </ul>
