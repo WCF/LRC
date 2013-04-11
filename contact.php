@@ -17,7 +17,7 @@ For general information, call the church office at 519-747-2211 Ext. 0 or email 
     <tr>
       <td><img src="static/img/staff/david-chang.jpg"></td>
       <td>
-        Dave Chang
+        David Chang
         <ul>
           <li>Mandarin Congregation &ndash; Elder</li>
         </ul>
