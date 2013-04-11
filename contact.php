@@ -3,6 +3,7 @@
 
 For general information, call the church office at 519-747-2211 Ext. 0 or email <a href="mailto:info@lincolnroadchapel.ca">info@lincolnroadchapel.ca</a>.
 
+<h2>Category 1</h2>
 <table class="contacts">
   <tbody>
     <tr>
@@ -97,6 +98,12 @@ For general information, call the church office at 519-747-2211 Ext. 0 or email 
         </ul>
       </td>
     </tr>
+  </tbody>
+</table>
+
+<h2>Category 2</h2>
+<table class="contacts">
+  <tbody>
     <tr>
       <td></td>
       <td>
