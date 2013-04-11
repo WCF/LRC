@@ -25,7 +25,7 @@
     If you have been ill or are in the hospital, we would love to come and visit you for a short period of time. Please have someone call the office to let our Office Manager know so that we will be aware of your need. We also have a frozen meal program to help you out in a practical way.
 
     <h4>Handymen Help</h4>
-    We are developing a team of men who would be able to come and help with small problems in your home,   if you have limited finances for hiring help. (Does not include major home renovations.
+    We are developing a team of men who would be able to come and help with small problems in your home,   if you have limited finances for hiring help. (Does not include major home renovations).
 
     <h4>Celebrate Recovery</h4>
     Celebrate Recovery is a recovery program for people seeking freedom from all kinds of life's problems and difficulties as they allow Jesus to be Lord in every area of their life. <a href="programs-celebrate-recovery.php">Celebrate Recovey</a> runs every Thursday evening at 7:00pm at LRC. New people always welcome.

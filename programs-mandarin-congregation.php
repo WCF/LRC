@@ -22,7 +22,7 @@
         Interim Pastor
       </div><br>
       Phone: 519-747-2211 ext 0 (LRC Office)<br>
-      Website: <a href="http://lrc145.blogspot.com">http://lrc145.blogspot.com</a>
+      Website: <a href="http://lrc145.blogspot.ca">http://lrc145.blogspot.ca</a>
     </p>
 
     <blockquote>
