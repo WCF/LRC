@@ -4,3 +4,6 @@
 [submodule "browser"]
 	path = browser
 	url = git://github.com/1337/php-file-browser.git
+[submodule "simplediff"]
+	path = simplediff
+	url = git@github.com:paulgb/simplediff.git
