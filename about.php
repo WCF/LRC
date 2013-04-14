@@ -17,11 +17,11 @@
     </p>
 
     <p>
-    People tell us they find this church warm and welcoming. “As soon as we walked through the door, we knew this was the church for us," is something we hear often. We hope you'll check us out by browsing through our website and discovering the range of ministries available. And we'd love to have you check us out by making a visit. Even if you don't decide to make Lincoln your home church, the visit won't be wasted - you will have met people who could become life-long friends and you'll have enjoyed a Sunday service that inspires without giving pat answers, that stretches the mind and builds confidence in God's Word, and music that gives voice to the worshiping heart.
+    People tell us they find this church warm and welcoming. "As soon as we walked through the door, we knew this was the church for us," is something we hear often. We hope you'll check us out by browsing through our website and discovering the range of ministries available. And we'd love to have you check us out by making a visit. Even if you don't decide to make Lincoln your home church, the visit won't be wasted - you will have met people who could become life-long friends and you'll have enjoyed a Sunday service that inspires without giving pat answers, that stretches the mind and builds confidence in God's Word, and music that gives voice to the worshiping heart.
     </p>
 
     <p>
-    Our main services are at 9:00 am and 11:00 am Sunday mornings , but we've got lots happening throughout the week as well. Our Mandarin Congregation meets upstairs every Sunday at 11:00 am. C'mon by! We'd love to meet you and share this exciting journey of life together.
+    Our main services are at 9:00 am and 11:00 am Sunday mornings, but we've got lots happening throughout the week as well. Our Mandarin Congregation meets upstairs every Sunday at 11:00 am. C'mon by! We'd love to meet you and share this exciting journey of life together.
     </p>
 
     Pastors  <a href="mailto:bruce@lincolnroadchapel.ca">Bruce Fournier</a>, <a href="mailto:david@lincolnroadchapel.ca">David Knight</a> (check that email link)
