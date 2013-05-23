@@ -1,4 +1,8 @@
-<?php require_once('pop/pop.php'); ?>
+<?php
+    require_once('pop/pop.php');
+    require_once "google-api-php-client/src/Google_Client.php";
+    require_once "google-api-php-client/src/contrib/Google_CalendarService.php";
+?>
 
 <section id="linkList" class="buble">
     <ul>
@@ -25,68 +29,42 @@
     <div class="title">
         <h2> Calendar of Events </h2>
     </div>
+    <?php
+        session_start();
+
+        $client = new Google_Client();
+        $client->setApplicationName("LRC Test Website");
+        $client->setDeveloperKey("AIzaSyC2t1b_JMWoVT2WtNoLvofRLsKaB1COSnA");
+
+        $cal = new Google_CalendarService($client);
+        $events = $cal->events->listEvents("m6gor60jv1r7hm75mr7avpsjag@group.calendar.google.com");
+
+        $monthNames = ['', 'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUL', 'AUG', 'SEP', 'OCT', 'NOV', 'DEC'];
+
+        foreach ($events[items] as $event) {
+            if ($event['transparency']) {
+                continue;
+            }
+            list($year, $monthNum, $day) = explode('-', $event[start][date]);
+            $month = $monthNames[intval($monthNum)];
+            $title = $event['summary'];
+            $description = $event['description']
+    ?>
     <div class="event">
         <div class="date">
-            <span class="big"> 24 </span>
-            <span class="small"> DEC </span>
+            <span class="big"><?php echo $day; ?></span>
+            <span class="small"><?php echo $month; ?></span>
         </div>
         <div class="content">
             <div class="title">
-                Christmas Eve
+                <?php echo $title; ?>
             </div>
             <div class="description">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                <?php echo $description; ?>
             </div>
         </div>
     </div>
-
-    <div class="event">
-        <div class="date">
-            <span class="big"> 25 </span>
-            <span class="small"> DEC </span>
-        </div>
-        <div class="content">
-            <div class="title">
-                Christmas!
-            </div>
-        </div>
-    </div>
-
-    <div class="event">
-        <div class="date">
-            <span class="big"> 26 </span>
-            <span class="small"> DEC </span>
-        </div>
-        <div class="content">
-            <div class="title">
-                Boxing Day
-            </div>
-        </div>
-    </div>
-
-    <div class="event">
-        <div class="date">
-            <span class="big"> 31 </span>
-            <span class="small"> DEC </span>
-        </div>
-        <div class="content">
-            <div class="title">
-                New Year's Eve
-            </div>
-        </div>
-    </div>
-
-    <div class="event">
-        <div class="date">
-            <span class="big"> 01 </span>
-            <span class="small"> JAN </span>
-        </div>
-        <div class="content">
-            <div class="title">
-                New Year's Day
-            </div>
-        </div>
-    </div>
+    <?php } ?>
 </div>
+
 </div>
