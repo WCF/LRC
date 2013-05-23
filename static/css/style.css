@@ -6,7 +6,8 @@ body {
 }
 /* -------------- FONTS -------------------*/
 body {
-    font-family: georgia, serif;
+    font-size: 14px;
+    font-family: helvetica, arial, sans-serif;
     line-height: 1.7em;
 }
 .nav,
@@ -20,6 +21,13 @@ body {
 .event .description {
     color: rgba(0,0,0,0.6);
 }
+blockquote {
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    line-height: 1.7em;
+    padding-bottom: 10px;
+}
 
 /* -------------- COLOURS & BGS -------------------*/
 body {
@@ -31,15 +39,8 @@ body {
 }
 .banner .bg {
     background-color: #683b1d;
-
-    /*background: -moz-linear-gradient(top, #492c0c, #7b4417);
-    background: -webkit-linear-gradient(top, #18253d, #29416a);
-    background: -ms-linear-gradient(top, #492c0c, #7b4417);
-    background: -o-linear-gradient(top, #492c0c, #7b4417);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#492c0c', endColorstr='#7b4417' );
-    background: linear-gradient(top, #492c0c, #7b4417);*/
 }
-.nav li a{
+.nav li a {
     color: #fff;
     text-decoration: none;
 }
@@ -48,10 +49,6 @@ body {
     color: #222;
     text-decoration: none;
 }
-/*.nav li a,
-#linkList li a {
-    text-shadow: 0 0 10px #000;
-}*/
 .nav li a:hover,
 #linkList li a:hover {
     text-decoration: underline;
@@ -65,15 +62,18 @@ body {
 
 /* -------------- MARGINS -------------------*/
 .main {
-    padding-left: 25px;
-    padding-right: 25px;
-    padding-bottom: 8px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px;
 }
 .time.address {
-    margin-right: 25px;
+    margin-right: 50px;
 }
 
 /* -------------- POSITIONING -------------------*/
+.clear {
+    clear: both;
+}
 img.float-left {
     float: left;
     padding: 0 15px 15px 0;
@@ -92,9 +92,6 @@ img.float-right {
     margin: 0px auto;
     text-align: left;
 }
-.banner .pageContainer {
-    width: 1050px;
-}
 .banner .bg {
     -webkit-box-shadow: 0 0 5px rgba(0,0,0,0.5);
     -moz-box-shadow: 0 0 5px rgba(0,0,0,0.5);
@@ -105,8 +102,8 @@ img.float-right {
     z-index: 1;
 }
 .banner .bg {
-    width: 100%;
-    height: 45px;
+    min-width: 1000px;
+    height: 40px;
     border-bottom: 1px solid #3b2925;
 }
 .logoContainer {
@@ -129,11 +126,11 @@ img.float-right {
 }
 .nav {
     float: right;
-    padding-right: 25px;
+    padding-right: 0;
 }
 .nav ul {
     float: right;
-    padding: 13px 0;
+    padding: 10px 0;
 }
 .nav td {
     text-align: center;
@@ -150,7 +147,7 @@ img.float-right {
 }
 .time.address {
     float: right;
-    padding: 10px 0 40px 0;
+    padding: 0 0 20px 0;
 }
 .time.address li {
     display: inline-block;
@@ -186,7 +183,7 @@ img.float-right {
 #campfireImg,
 #eventList,
 .event {
-    width: 700px;
+    width: 650px;
 }
 #eventList {
     margin-bottom: 30px;
@@ -194,13 +191,13 @@ img.float-right {
 .event .date {
     height: 60px;
     width: 70px;
-    padding: 6px 0 4px 0;
+    padding: 15px 0 4px 0;
     vertical-align: center;
 }
 .event .content {
     height: 60px;
-    width: 620px;
-    padding: 5px 0 0 10px;
+    width: 570px;
+    padding: 0 0 0 10px;
 }
 .date span {
     display: block;
@@ -271,18 +268,50 @@ h4+p {
     *display: none;
 }
 
+
 nav.toc {
     float: left;
     width: 200px;
-    margin: -60px 40px 0 -40px;
+    margin: 0 40px 0 -40px;
+}
+nav.toc li {
+    list-style: none;
+}
+nav.toc a {
+    text-decoration: none;
+    display: block;
+    color: #888;
+}
+nav.toc a:hover {
+    color: #000;
 }
 
 .beside-toc {
     float: left;
-    width: 750px;
+    width: 700px;
 }
 
 .bottom-of-contents {
     clear: both;
     height: 0;
+}
+
+.top.contact {
+    text-align: left;
+    float: left;
+    padding-right: 20px;
+    padding-left: 10px;
+    margin-right: 20px;
+    border-bottom: 1px solid #ddd;
+}
+.top.imagequote {
+    padding: 20px 10px 0 10px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.top img {
+    padding-bottom: 30px;
+}
+.quotesayer {
+    text-align: right;
 }
