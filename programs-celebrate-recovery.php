@@ -12,6 +12,7 @@
         <div class="quotesayer">
             -A participant of Celebrate Recovery Waterloo
         </div>
+        <br class="clear">
     </div>
     <div class="top contact">
         <p>

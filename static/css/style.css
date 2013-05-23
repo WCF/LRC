@@ -71,6 +71,9 @@ body {
 }
 
 /* -------------- POSITIONING -------------------*/
+.clear {
+    clear: both;
+}
 img.float-left {
     float: left;
     padding: 0 15px 15px 0;
@@ -302,9 +305,12 @@ nav.toc a:hover {
     border-bottom: 1px solid #ddd;
 }
 .top.imagequote {
-    padding: 20px 10px;
+    padding: 20px 10px 0 10px;
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+}
+.top img {
+    padding-bottom: 30px;
 }
 .quotesayer {
     text-align: right;
