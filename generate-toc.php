@@ -18,7 +18,7 @@
 
                             // Search for the first <h2> tag.  This will be (better be) our title.
                             $matches = array();
-                            if (preg_match('/<h2>(.*)<\/h2>/i', $buffer, $matches)) {
+                            if (preg_match('/<h1>(.*)<\/h1>/i', $buffer, $matches)) {
 
                                 // Add the page and bail.
                                 $pages[$file] = $matches[1];
