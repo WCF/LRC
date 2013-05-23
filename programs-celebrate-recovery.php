@@ -2,14 +2,24 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Celebrate Recovery&reg;</h2>
-    <img class="float-left" src="static/img/titanic-beach.jpg">
-    <blockquote>
-    "At Celebrate Recovery, God gave me in recovery, peace of mind, freedom from addiction, a new identity in Christ, a support group with caring people, opportunity to share my experience, strength & hope with others who struggle and to experience unconditional acceptance without judgment from fellow Christians."
-    </blockquote>
-    ~A participant of Celebrate Recovery Waterloo
-    <br><br>
+    <h1>Celebrate Recovery&reg;</h1>
+
+    <div class="top imagequote">
+        <img class="float-right" src="static/img/titanic-beach.jpg">
+        <blockquote>
+        "At Celebrate Recovery, God gave me in recovery, peace of mind, freedom from addiction, a new identity in Christ, a support group with caring people, opportunity to share my experience, strength & hope with others who struggle and to experience unconditional acceptance without judgment from fellow Christians."
+        </blockquote>
+        <div class="quotesayer">
+            -A participant of Celebrate Recovery Waterloo
+        </div>
+    </div>
+    <div class="top contact">
+        <p>
+            <b>Michelle Gowland</b><br>Ministry Leader <br>
+            (519) 747-2211 x228 <br>
+            <a href="mailto:michelle@lincolnroadchapel.ca">michelle@lincolnroadchapel.ca</a>
+        </p>
+    </div>
 
     <p>
     Celebrate Recovery is a Christ-Centered Recovery Program for all life's hurts, habits & hang ups.

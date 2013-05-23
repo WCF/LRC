@@ -21,6 +21,13 @@ body {
 .event .description {
     color: rgba(0,0,0,0.6);
 }
+blockquote {
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    line-height: 1.7em;
+    padding-bottom: 10px;
+}
 
 /* -------------- COLOURS & BGS -------------------*/
 body {
@@ -284,4 +291,21 @@ nav.toc a:hover {
 .bottom-of-contents {
     clear: both;
     height: 0;
+}
+
+.top.contact {
+    text-align: left;
+    float: left;
+    padding-right: 20px;
+    padding-left: 10px;
+    margin-right: 20px;
+    border-bottom: 1px solid #ddd;
+}
+.top.imagequote {
+    padding: 20px 10px;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.quotesayer {
+    text-align: right;
 }
