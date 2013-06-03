@@ -7,12 +7,16 @@
 
     <p>
         If you are a member of Lincoln Road Chapel and would like to volunteer,
-        there are many oppotunities to serve. For more information, check the list
+        there are many opportunities to serve. For more information, check the list
         below and contact a ministry leader.
-        <br><br>
-        To apply to volunteer, please contact Nicole,our Volunteer Security
+    </p>
+    <p>
+        To apply to volunteer, please contact Nicole, our Volunteer Security
         Coordinator:
         <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
+    </p>
+    <p>
+        Positions available: <a href="static/pdf/Volunteer_Positions_Available.pdf">PDF</a>.
     </p>
 
     <h3>Information</h3>
