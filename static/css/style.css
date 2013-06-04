@@ -10,6 +10,9 @@ body {
     font-family: helvetica, arial, sans-serif;
     line-height: 1.7em;
 }
+nav.toc {
+    line-height: 1.2em;
+}
 .nav,
 #linkList,
 .event .date {
@@ -68,6 +71,9 @@ body {
 }
 .time.address {
     margin-right: 50px;
+}
+nav.toc li {
+    margin-bottom: 7px;
 }
 
 /* -------------- POSITIONING -------------------*/
@@ -213,7 +219,7 @@ footer {
     clear: both;
     background-color: #333;
     padding: 5px;
-    color: #fff;
+    color: #aaa;
     font-size: small;
 }
 footer * {

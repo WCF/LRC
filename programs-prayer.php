@@ -2,13 +2,25 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Prayer</h2>
+    <h1>Prayer</h1>
 
-    <h4>Renate Ruppel, Prayer Chain Coordinator</h4>
-    <blockquote>
-    "Carry each other's burdens, and in this way you will fulfill the law of Christ" (Galatians 6:2).
-    </blockquote>
+    <div class="top imagequote">
+        <blockquote>
+        "Carry each other's burdens, and in this way you will fulfill the law of Christ."
+        </blockquote>
+        <div class="quotesayer">
+            -Galations 6:2
+        </div>
+        <br class="clear">
+    </div>
+    <div class="top contact">
+        <p>
+            <b>Renate Ruppel</b><br>
+            Prayer Chain Coordinator<br>
+            <a href="mailto:renateruppel@gmail.com">renateruppel@gmail.com</a>
+        </p>
+    </div>
+
     <p>
     As believers, prayer is the most powerful tool we have to communicate with God. The prayer chain exists as a way for members of Lincoln Road Chapel to communicate emergency prayer requests. The prayer chain allows us to partner with one another and God to carry each others burdens. We pray for God's will to be done in difficult and trying situations.
     </p>

@@ -2,8 +2,7 @@
 
 <?php include 'output-about-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="about.php">About</a></h1>
-    <h2>Distinctives</h2>
+    <h1>Distinctives</h1>
 
     <p>
     There are a number of distinctive things that make Lincoln Road Chapel what it is, in a way that is noticeable to others.

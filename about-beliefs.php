@@ -2,8 +2,7 @@
 
 <?php include 'output-about-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="about.php">About</a></h1>
-    <h2>Beliefs</h2>
+    <h1>Beliefs</h1>
 
     <h4>The Bible</h4>
     <p>

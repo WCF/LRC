@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Children</h2>
+    <h1>Children</h1>
 
     <img src="http://lincolnroadchapel.ca/images/linkin_kids_logo_2010.png" style="padding: 0 10px 10px 0;">
     <blockquote>

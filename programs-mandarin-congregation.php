@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Mandarin Congregation</h2>
+    <h1>Mandarin Congregation</h1>
 
     <p>
       <div style="display: inline-block;">

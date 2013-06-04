@@ -5,12 +5,23 @@
     <h1><a href="programs.php">Programs</a></h1>
     <h2>Library</h2>
 
-    <img class="float-left" src="static/img/staff/angelica-allen.jpg">
-    <p>Angelica Allen</p>
-    <p>Library Coordinator</p>
-    <p>Email: <a href="mailto:library@lincolnroadchapel.ca">library@lincolnroadchapel.ca</a>
-    </p>
-    <p>519-747-2211 ext. 0</p>
+    <div class="top imagequote">
+        <img class="float-right" src="static/img/staff/angelica-allen.jpg">
+        <blockquote>
+        "Books are fantastic! It's like a really long silent movie! In your brain!! Braaaaiiinns."
+        </blockquote>
+        <div class="quotesayer">
+            -Sarah
+        </div>
+        <br class="clear">
+    </div>
+    <div class="top contact">
+        <p>
+            <b>Angelica Allen</b>
+            <br>Library Coordinator<br>
+            <a href="mailto:library@lincolnroadchapel.ca">library@lincolnroadchapel.ca</a>
+        </p>
+    </div>
 
     <p>Come on in and take a look around the LRC Library!</p>
 

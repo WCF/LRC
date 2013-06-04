@@ -2,17 +2,23 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Volunteering</h2>
+    <h1>Volunteering</h1>
+
+    <div class="top contact">
+        <p>
+            <b>Nicole Fisher</b><br>
+            Volunteer Coordinator <br>
+            <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
+        </p>
+    </div>
 
     <p>
         If you are a member of Lincoln Road Chapel and would like to volunteer,
         there are many oppotunities to serve. For more information, check the list
         below and contact a ministry leader.
         <br><br>
-        To apply to volunteer, please contact Nicole,our Volunteer Security
-        Coordinator:
-        <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
+        To apply to volunteer, please contact Nicole, our Volunteer Security
+        Coordinator.
     </p>
 
     <h3>Information</h3>
