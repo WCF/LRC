@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Sports</h2>
+    <h1>Sports</h1>
 
     <p>
     At Lincoln Road Chapel, we are blessed with a beautiful sports facility.  Previous to purchasing this facility, it was owned by the Waterloo YMCA and for one year, Lincoln Road Chapel and the Waterloo YMCA shared the building.  In 2005, the Waterloo YMCA moved their services entirely to the Kitchener YMCA facility.  Inside our building, we have a large gym with a running track suspended from its ceiling.  It is equipped with basketballs, hockey sticks, nets, balls and other sports equipment.  Outside, we also have two tennis courts that are available for use.
@@ -25,7 +24,7 @@
     <p>
     Martha Hanna, Basketball League Coordinator
     <blockquote>
-    " We organize the LRC Basketball program because we believe that following Jesus dribbles into all areas of life, including basketball. We want to encourage the players to make wise choices and persevere, so that they may look back on their lives and say 'slam dunk'!"
+    "We organize the LRC Basketball program because we believe that following Jesus dribbles into all areas of life, including basketball. We want to encourage the players to make wise choices and persevere, so that they may look back on their lives and say 'slam dunk'!"
     </blockquote>
     <b>Boys and Girls Basketball League</b>: Monday Evenings<br>
     <b>One Night - two different times!</b><br>

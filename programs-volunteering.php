@@ -2,8 +2,15 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Volunteering</h2>
+    <h1>Volunteering</h1>
+
+    <div class="top contact">
+        <p>
+            <b>Nicole Fisher</b><br>
+            Volunteer Coordinator <br>
+            <a href="mailto:nicole@lincolnroadchapel.ca">nicole@lincolnroadchapel.ca</a>
+        </p>
+    </div>
 
     <p>
         If you are a member of Lincoln Road Chapel and would like to volunteer,

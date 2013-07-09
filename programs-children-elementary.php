@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Children - Elementary Program</h2>
+    <h1>Children - Elementary Program</h1>
 
     <img src="/static/img/elementary-kid.jpg" class="float-right">
     <blockquote>"I like Sunday School because I like watching movies about Jesus and seeing my friends."<br>

@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Children - Preschool Program</h2>
+    <h1>Children - Preschool Program</h1>
 
     <img src="/static/img/preschool-kid.jpg" class="float-right">
     <blockquote>"I learn about being special and kind in Sunday School and I like to colour and play with the dolls."<br>

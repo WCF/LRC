@@ -2,8 +2,7 @@
 
 <?php include 'output-about-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="about.php">About</a></h1>
-    <h2>Donating to Lincoln Road Chapel</h2>
+    <h1>Donating to Lincoln Road Chapel</h1>
 
     <p>
     We rely on dedicated believers to support our ministries. Most of the money donated comes from the members of the Lincoln Road Chapel church family who give because they see something happening here that they want to support financially. These generous and ongoing contributions help become nurture the faith of our members so that they will powerfully impact their generation to the glory of God.

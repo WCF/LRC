@@ -2,18 +2,28 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Community Care</h2>
+    <h1>Community Care</h1>
 
-    <img class="float-left" src="static/img/staff/debbie-laginskie.jpg">
-    <p>Debbie Laginskie</p>
-    <p>Community Care Pastor</p>
-    <p>Email: <a href="mailto:debbie@lincolnroadchapel.ca">debbie@lincolnroadchapel.ca</a></p>
-    <p>519-747-2211 ext. 222</p>
+    <div class="top imagequote">
+        <img class="float-right" src="static/img/staff/debbie-laginskie.jpg">
+        <blockquote>
+        "We believe it is important to be a caring community - to care for one another in a holistic way: physically, emotionally, spiritually and relationally. It's a team effort! We also want to let that care flow out of us to the community that Jesus has placed around us. Keeping the balance of caring for the immediate church family and caring for those in the community can be challenging but we aim for it with God's help."
+        </blockquote>
+        <div class="quotesayer">
+            -Michael Buble
+        </div>
+        <br class="clear">
+    </div>
+    <div class="top contact">
+        <p>
+            <b>Debbie Laginskie</b><br>
+            Community Care Pastor <br>
+            (519) 747-2211 x222 <br>
+            <a href="mailto:debbie@lincolnroadchapel.ca">debbie@lincolnroadchapel.ca</a>
+        </p>
+    </div>
 
-    <blockquote>"We believe it is important to be a caring community - to care for one another in a holistic way: physically, emotionally, spiritually and relationally. It's a team effort! We also want to let that care flow out of us to the community that Jesus has placed around us. Keeping the balance of caring for the immediate church family and caring for those in the community can be challenging but we aim for it with God's help."</blockquote>
-
-    <h3>Areas of Community Care</h3>
+    <h2>Areas of Community Care</h2>
 
     <h4>Care Partners</h4>
     Sometimes life can get especially difficult and there is a specific issue or pain we need to work through.  The Care Director will make connections with someone you can talk to for a period of time...someone who can listen, encourage and pray with you. (These are not trained counsellors.)
@@ -28,10 +38,10 @@
     We are developing a team of men who would be able to come and help with small problems in your home,   if you have limited finances for hiring help. (Does not include major home renovations).
 
     <h4>Celebrate Recovery</h4>
-    Celebrate Recovery is a recovery program for people seeking freedom from all kinds of life's problems and difficulties as they allow Jesus to be Lord in every area of their life. <a href="programs-celebrate-recovery.php">Celebrate Recovey</a> runs every Thursday evening at 7:00pm at LRC. New people always welcome.
+    Celebrate Recovery is a recovery program for people seeking freedom from all kinds of life's problems and difficulties as they allow Jesus to be Lord in every area of their life. <a href="programs-celebrate-recovery.php">Celebrate Recovery</a> runs every Thursday evening at 7:00pm at LRC. New people always welcome.
 
     <h4>Marriage Preparation</h4>
-    Marriage prepartation is provided for all couples being married at Lincoln Road Chapel, and Marriage Enrichment opportunities are provided throughout the year.
+    Marriage preparation is provided for all couples being married at Lincoln Road Chapel, and Marriage Enrichment opportunities are provided throughout the year.
 
     <h4>Financial Counseling</h4>
     We have a team of people who will be available to help you sort out finances if you are in trouble or experiencing reoccurring debt that you are unable to pay.

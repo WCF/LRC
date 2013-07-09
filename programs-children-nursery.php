@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Children - Nursery Program</h2>
+    <h1>Children - Nursery Program</h1>
 
     <img src="/static/img/nursery-kid.jpg" class="float-right">
     <p>The nursery at Lincoln Road Chapel is designed for newborns and toddlers.  It is a safe and loving environment.  We

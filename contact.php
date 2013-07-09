@@ -1,10 +1,15 @@
 <?php require_once('pop/pop.php'); ?>
 <h1>Contact</h1>
 
-For general information, call the church office at 519-747-2211 Ext. 0 or email <a href="mailto:info@lincolnroadchapel.ca">info@lincolnroadchapel.ca</a>.
+Church phone number: (519) 747-2211 
 
+<br><br>
 <table class="contacts">
   <tbody>
+    <tr>
+      <td></td>
+      <td>
+        General Information &ndash; <a href="mailto:info@lincolnroadchapel.ca">info@lincolnroadchapel.ca</a>
     <tr>
       <td></td>
       <td>

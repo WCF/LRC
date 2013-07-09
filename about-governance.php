@@ -2,8 +2,7 @@
 
 <?php include 'output-about-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="about.php">About</a></h1>
-    <h2>Governance</h2>
+    <h1>Governance</h1>
 
     <p>
     This is just another word for "How do things get decided and done around here?"

@@ -2,31 +2,37 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Students</h2>
-    <img width="150" height="225" border="0" align="left"
-         style="padding: 0 10px 10px 0"
-         title="PJ_Wong_2011.jpg" alt="PJ_Wong_2011.jpg"
-         src="http://www.lincolnroadchapel.ca/images/PJ_Wong_2011.jpg">
-    <p><b>
-        PJ Wong, Youth and Young Adult Programs
-    </b></p>
+    <h1>Students</h1>
 
-    <p>
+    <div class="top imagequote">
+        <img class="float-right" src="http://www.lincolnroadchapel.ca/images/PJ_Wong_2011.jpg">
+        <blockquote>
         "The Student Ministries at Lincoln Road Chapel are all
         about loving God and loving other people as we try to figure
         out what life is really about! Whether you are in your preteens
         at Xtreme Youth or your teenage years at the LINK, these
         communities of faith would love to have you included!"
-        <br />
-        <br />
-        <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a>
-    </p>
-    <div>
+        </blockquote>
+        <div class="quotesayer">
+            -PJ
+        </div>
+        <br class="clear">
+    </div>
+    <div class="top contact">
+        <p>
+            <b>PJ</b><br>
+            Youth and Young Adult Programs <br>
+            (519) 747-2211 x234 <br>
+            <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a>
+        </p>
+    </div>
+
+    <p>
         <b>Student Ministries</b>
         at Lincoln Road Chapel includes Xtreme Youth (grades 6-8) and
         The LINK (grades 9-12). Click logo for more information.
         <br>
+    </p>
 
         <div style="text-align:center;">
             <a href="http://www.lincolnroadchapel.ca/Xtreme_Youth.php">
@@ -40,6 +46,5 @@
                      src="http://www.lincolnroadchapel.ca/images/the_link.jpg">
             </a>
         </div>
-    </div>
 </div>
 <div class="bottom-of-contents"></div>

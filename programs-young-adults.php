@@ -2,23 +2,34 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Young Adults</h2>
+    <h1>Young Adults</h1>
+
+    <div class="top imagequote">
+        <img class="float-right" src="static/img/titanic-beach.jpg">
+        <blockquote>
+        "Please please PLEASE we gotta get better images for this page."
+        </blockquote>
+        <div class="quotesayer">
+            -Sarah
+        </div>
+        <br class="clear">
+    </div>
+    <div class="top contact">
+        <p>
+            <b>PJ</b><br>
+            Youth and Young Adult Programs <br>
+            (519) 747-2211 x234 <br>
+            <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a>
+        </p>
+    </div>
+
     <p>Finished high school, but not yet 30.</p>
     <p>
-        <img src="http://www.lincolnroadchapel.ca/images/PJ__Wong_2011.jpg"
-             alt="PJ__Wong_2011.jpg" title="PJ__Wong_2011.jpg" border="0"
-             height="145" width="100">
         <img src="http://www.lincolnroadchapel.ca/images/PICT0007.JPG"
              alt="PICT0007.JPG" title="PICT0007.JPG" border="0" width="150"
              height="113">
         <img src="http://www.lincolnroadchapel.ca/images/PICT0020.JPG" height="131"
              width="175" border="0" title="PICT0020.JPG" alt="PICT0020.JPG">
-    </p>
-    <p>
-        PJ Wong <br>
-        Phone: 519-747-2211 ext 234 <br>
-        Email: <a href="mailto:pj@lincolnroadchapel.ca">pj@lincolnroadchapel.ca</a>
     </p>
     <p>
         The Young Adult Ministry at Lincoln Road Chapel seems to be always changing

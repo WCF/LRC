@@ -2,18 +2,26 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Link Groups</h2>
+    <h1>Link Groups</h1>
 
-    <img class="float-left" src="static/img/staff/david-knight.jpg">
-
-    David Knight, Pastor of Spiritual Development<br>
-    Phone: 519-747-2211 ext. 232<br>
-    Email: david@lincolnroadchapel.ca<br>
-
-    <blockquote>
-      "We were made for community &ndash; deep in our human DNA is a hunger for relationship.  The God who created us is a relational God &ndash; Father, Son and Spirit &ndash; and God longs for us to experience authentic human community that has its source in God's life. That's why Jesus created a community of disciples.   And that's what our LinkGroups are all about.  At Lincoln Road we want everyone who worships with us to experience a sense of belonging and being connected and encouraged in life.  I hope you will get involved.  I know you'll have fun, learn together and grow closer to God."
-    </blockquote>
+    <div class="top imagequote">
+        <img class="float-right" src="static/img/staff/david-knight.jpg">
+        <blockquote>
+        "We were made for community &ndash; deep in our human DNA is a hunger for relationship.  The God who created us is a relational God &ndash; Father, Son and Spirit &ndash; and God longs for us to experience authentic human community that has its source in God's life. That's why Jesus created a community of disciples.   And that's what our LinkGroups are all about.  At Lincoln Road we want everyone who worships with us to experience a sense of belonging and being connected and encouraged in life.  I hope you will get involved.  I know you'll have fun, learn together and grow closer to God."
+        </blockquote>
+        <div class="quotesayer">
+            -David??
+        </div>
+        <br class="clear">
+    </div>
+    <div class="top contact">
+        <p>
+            <b>David Knight</b><br>
+            Pastor of Spiritual Development <br>
+            (519) 747-2211 x232 <br>
+            <a href="mailto:david@lincolnroadchapel.ca">david@lincolnroadchapel.ca</a>
+        </p>
+    </div>
 
     <p>LinkGroups are groups of 4-12 people who meet regularly outside of church to support and encourage each other, to grow spiritually by exploring scripture and praying together and sometimes working together in service projects.  They're a wonderful way to become an integral part of Lincoln Road Chapel and the community.</p>
 
