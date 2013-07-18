@@ -32,6 +32,8 @@
             closedir($dirhandle);
         }
 
+        asort($pages, SORT_NATURAL | SORT_FLAG_CASE);
+
         return $pages;
     }
 ?>
