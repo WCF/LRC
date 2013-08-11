@@ -2,8 +2,7 @@
 
 <?php include 'output-programs-toc.php'; ?>
 <div class="beside-toc">
-    <h1><a href="programs.php">Programs</a></h1>
-    <h2>Library</h2>
+    <h1>Library</h1>
 
     <div class="top imagequote">
         <img class="float-right" src="static/img/staff/angelica-allen.jpg">
