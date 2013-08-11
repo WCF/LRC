@@ -1,7 +1,9 @@
+@charset "UTF-8";
+
 body {
     width: 100%;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 /* -------------- FONTS -------------------*/
@@ -16,7 +18,7 @@ nav.toc {
 .nav,
 #linkList,
 .event .date {
-    font-family: century gothic, arial;
+    font-family: 'century gothic', arial, sans-serif;
 }
 .title {
     font-weight: bold;
@@ -35,7 +37,7 @@ blockquote {
 /* -------------- COLOURS & BGS -------------------*/
 body {
     color: #222;
-    background: #ddd url(static/img/paper_fibers.png) repeat;
+    background: #ddd url('../img/paper_fibers.png') repeat;
 }
 .pageContainer {
     background-color: #fff;
@@ -95,7 +97,7 @@ img.float-right {
 }
 .pageContainer {
     width: 1000px;
-    margin: 0px auto;
+    margin: 0 auto;
     text-align: left;
 }
 .banner .bg {
@@ -122,13 +124,13 @@ img.float-right {
     height: 111px;
 }
 .nav ul {
-    margin: 0px;
-    padding: 0px;
-    text-indent: 0px;
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
 }
 .nav li {
     list-style: none;
-    text-indent: 0px;
+    text-indent: 0;
 }
 .nav {
     float: right;
@@ -149,7 +151,7 @@ img.float-right {
     margin: 0 50px;
 }
 .nav li:first-child {
-    margin-left: 0px;
+    margin-left: 0;
 }
 .time.address {
     float: right;
@@ -182,8 +184,7 @@ img.float-right {
     float: left;
 }
 #campfireImg {
-    background-image:url('../img/honne-campfire.jpg');
-    background-position: center center;
+    background: url('../img/honne-campfire.jpg') center center;
     height: 280px;
 }
 #campfireImg,
@@ -198,7 +199,7 @@ img.float-right {
     height: 60px;
     width: 70px;
     padding: 15px 0 4px 0;
-    vertical-align: center;
+    vertical-align: middle;
 }
 .event .content {
     height: 60px;
@@ -230,9 +231,9 @@ td {
 }
 .CR-groups,
 .CR-group-categories {
-    margin-left: 0px;
-    padding-left: 0px;
-    text-indent: 0px;
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
 }
 .CR-group-categories {
     font-weight: bold;

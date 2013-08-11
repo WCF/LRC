@@ -9,14 +9,14 @@
         if ($dirhandle = opendir('.')) {
             while (($file = readdir($dirhandle)) !== false) {
                 $pattern = '/^' . $filenamePrefix . '/i';
-                if (preg_match($pattern, $file)) {
+                if (preg_match($pattern, $file) && strpos($file, '.bak') === false) {
 
                     // Scan through the file one line at a time.
                     $filehandle = @fopen($file, 'r');
                     if ($filehandle) {
                         while (($buffer = fgets($filehandle, 256)) !== false) {
 
-                            // Search for the first <h2> tag.  This will be (better be) our title.
+                            // Search for the first <h1> tag.  This will be (better be) our title.
                             $matches = array();
                             if (preg_match('/<h1>(.*)<\/h1>/i', $buffer, $matches)) {
 
@@ -36,4 +36,3 @@
 
         return $pages;
     }
-?>
