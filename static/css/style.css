@@ -118,6 +118,9 @@ img.float-right {
     position: absolute;
     margin-left: 10px;
 }
+.logoContainer a, .logoContainer img {
+    border: 0;
+}
 #logo {
     float: left;
     width: 204px;
