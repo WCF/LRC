@@ -21,8 +21,11 @@
     </ul>
 </section>
 
-<div class="campfire">
-    <img id="campfireImg" alt=""/>
+<div id="campfireImg" alt=""/>
+    <div>
+        A place where <b>you</b> matter<br>
+        and <b>Jesus</b> is the main attraction
+    </div>
 </div>
 
 <div id="eventList">

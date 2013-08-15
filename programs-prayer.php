@@ -9,7 +9,7 @@
         "Carry each other's burdens, and in this way you will fulfill the law of Christ."
         </blockquote>
         <div class="quotesayer">
-            -Galations 6:2
+            -Galatians 6:2
         </div>
         <br class="clear">
     </div>
