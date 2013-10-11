@@ -12,29 +12,21 @@
 
     <h3>Tuesday Evening Volleyball</h3>
     <p>
-    Every Tuesday night from 8:30-10:30 pm, you are welcome to play volleyball in the gym.  The event is open to everyone, both male and female and young and old.  For more information, contact the <a href="http://www.lincolnroadchapel.ca/index.php?pr=Quick_Reference_Guide">church office</a>.
+    Every Tuesday night from 8:30-10:30 pm, you are welcome to play volleyball in the gym.  The event is open to everyone, both male and female and young and old.
     </p>
 
     <h3>Sunday Evening  Basketball</h3>
     <p>
-    Post high-school men and women are invited play basketball on Sunday evenings from 8:00 pm to 9:30 pm.  For more information, <a href="http://www.lincolnroadchapel.ca/index.php?pr=Quick_Reference_Guide">contact the church office</a>.
+    Post high-school men and women are invited play basketball on Sunday evenings from 8:00 pm to 9:30 pm.
     </p>
 
     <h3>Basketball League (For Boys and Girls in Grades 5-8)</h3>
     <p>
-    Martha Hanna, Basketball League Coordinator
-    <blockquote>
-    "We organize the LRC Basketball program because we believe that following Jesus dribbles into all areas of life, including basketball. We want to encourage the players to make wise choices and persevere, so that they may look back on their lives and say 'slam dunk'!"
-    </blockquote>
-    <b>Boys and Girls Basketball League</b>: Monday Evenings<br>
-    <b>One Night - two different times!</b><br>
-    <b>Date</b>:  March 4 - April 22, 2013<br>
-    <b>Girls time</b>: 6:00 pm to 7:25 pm<br>
-    <b>Boys Time</b>: 7:35-9:00 pm<br>
-    <b>Ten minute overlap for combined Life Skills</b><br>
+    <b>Coordinator</b>: Martha Hanna<br>
     <b>Location</b>: Lincoln Road Chapel, Gym<br>
-    <b>Cost</b>: $30<br>
-    <b>Maximum Enrollment</b>: 32 boys and 32 girls<br>
+    <b>Date</b>:  Mondays, March - April<br>
+    <b>Cost</b>: \$30<br>
+    </p>
 
      <p>
     The LRC Basketball League is an 8 week program designed to give boys and girls  the opportunity to play basketball, improve their skills, make friends and learn how to apply court lessons to their everyday life. Each participant will:

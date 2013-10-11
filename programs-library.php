@@ -7,10 +7,10 @@
     <div class="top imagequote">
         <img class="float-right" src="static/img/staff/angelica-allen.jpg">
         <blockquote>
-        "Books are fantastic! It's like a really long silent movie! In your brain!! Braaaaiiinns."
+        "Books are fantastic! It's like a really long silent movie! In your brain!"
         </blockquote>
         <div class="quotesayer">
-            -Sarah
+            -Anon
         </div>
         <br class="clear">
     </div>

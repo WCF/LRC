@@ -39,10 +39,6 @@
                 testimonies
             </li>
         </ul>
-        <p>
-        *To view our 2013 Planning Team Schedule, click <a
-            href="pgm-download_media.php?name=LRC_WPT_MASTER_Schedule_as_of_January_21_2013.pdf">here</a>.
-        </p>
 
     <div>
         <h3>Worship Planning Team (WPT)</h3>
