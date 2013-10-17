@@ -28,13 +28,6 @@
 
     <h3>Events</h3>
 
-    <h4><a href="static/pdf/Women_LIFT">L.I.F.T (Ladies in Faith Together)</a></h4>
-    <p>
-    <b>Day</b>: Thursdays<br>
-    <b>Time</b>: 9:30 - 11 am<br>
-    <b>JAM</b>: An exciting program for your children ages 1-5 (babies 0-1 stay with moms). Details <a href="static/pdf/Women_JAM">here</a>.
-    </p>
-
     <h4>Connections</h4>
     <p>
     A very special part of Women's Ministries is Connections - a ministry designed to meet the unique needs of  single women. Developing friendships that are non-judgemental and supportive is a key component for healing from and coping with the particular issues of life as single women. Once a month  we meet at the chapel for a pot-luck supper, fellowship and fun as well as encouragement through special speakers and/or topics. The last Sunday of every month, Serenity Lunches are held in homes after Sunday morning services. Everyone brings their own bag lunch! There are other informal gatherings as well.

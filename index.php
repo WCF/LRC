@@ -7,13 +7,7 @@
 <section id="linkList" class="buble">
     <ul>
         <li>
-            <a href="/sermon.php">Sermon</a>
-        </li>
-        <li>
-            <a href="/newsletter.php">Newsletter</a>
-        </li>
-        <li>
-            <a href="/programs-prayer.php">Prayers</a>
+            <a href="http://sermons.lincolnroadchapel.ca/">Sermon</a>
         </li>
         <li>
             <a href="/welcome.php">First time here?</a>

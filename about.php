@@ -24,6 +24,6 @@
     Our main services are at 9:00 am and 11:00 am Sunday mornings, but we've got lots happening throughout the week as well. Our Mandarin Congregation meets upstairs every Sunday at 11:00 am. C'mon by! We'd love to meet you and share this exciting journey of life together.
     </p>
 
-    Pastors  <a href="mailto:bruce@lincolnroadchapel.ca">Bruce Fournier</a>, <a href="mailto:david@lincolnroadchapel.ca">David Knight</a> (check that email link)
+    Pastors  <a href="mailto:doug@lincolnroadchapel.ca">Doug Martin</a>, <a href="mailto:bruce@lincolnroadchapel.ca">Bruce Fournier</a>, <a href="mailto:david@lincolnroadchapel.ca">David Knight</a>
 </div>
 <div class="bottom-of-contents"></div>

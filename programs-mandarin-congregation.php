@@ -6,21 +6,16 @@
 
     <p>
       <div style="display: inline-block;">
-        <img src="static/img/staff/david-chang.jpg"><br>
-        David Chang<br>
-        LRC Elder
+        <img src="static/img/staff/joshua-tjong.jpg"><br>
+        Joshua Tjong<br>
+        Interim Pastor
       </div>
       <div style="display: inline-block;">
         <img src="static/img/staff/mi-xia.jpg"><br>
         Mi Xia<br>
         Mandarin Care
-      </div>
-      <div style="display: inline-block;">
-        <img src="static/img/staff/joshua-tjong.jpg"><br>
-        Joshua Tjong<br>
-        Interim Pastor
       </div><br>
-      Phone: 519-747-2211 ext 0 (LRC Office)<br>
+      Phone: 519-747-2211 ext 230<br>
       Website: <a href="http://lrc145.blogspot.ca">http://lrc145.blogspot.ca</a>
     </p>
 

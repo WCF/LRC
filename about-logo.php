@@ -2,7 +2,7 @@
 
 <?php include 'output-about-toc.php'; ?>
 <div class="beside-toc">
-    <h1>About our Logo</h1>
+    <h1>Our Logo</h1>
 
     <p>
     Different people see different things when they look at the logo. Some people see a flame. Great! The flame speaks of fire and heat. The flame reminds us of Moses' burning bush experience and how God calls individuals into a relationship with Him. In the New Testament, the flame is symbolic of God's Holy Spirit and how God infuses people with supernatural power. And the flame speaks of the heart, the very centre of life and the spiritual essence of faith.

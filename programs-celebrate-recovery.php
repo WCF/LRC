@@ -84,10 +84,6 @@
                 </ul>
             </td>
         </tr>
-        <tr>
-            <td>Step Studies:</td>
-            <td>Email <a href="mailto:michelle@lincolnroadchapel.ca">michelle@lincolnroadchapel.ca</a> for dates, times and locations.</td>
-        </tr>
     </table>
 
     <h3>Creekside Celebrate Recovery</h3>
@@ -108,31 +104,6 @@
             <td>Contact:</td>
             <td>Deb Jones at <a href="mailto:djones@creeksidechurch.ca">djones@creeksidechurch.ca</a></td>
         </tr>
-        <tr>
-            <td>Format:</td>
-            <td>6:00 pm - Dinner (all ages welcome)<br>
-                7:00 pm - Adult Large Group<br>
-                8:00 pm - Confidential Open Share Groups<br>
-                7:00 pm - Kids (13 and under): Celebration Station and Nursery<br>
-                7:00 pm - Youth: The Landing<br>
-                9:00 pm - Cafe</td>
-        </tr>
-        <tr>
-            <td>Open Share Groups: </td>
-            <td>
-                <ul class="CR-groups">
-                    <li>Hurts, Habits and Hang-ups for women</li>
-                    <li>Hurts, Habits and Hang-ups for men</li>
-                    <li>Addictions for men</li>
-                    <li>Addictions for women</li>
-                    <li>Celebrate Recovery 101 for new participants each week</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Step Studies:</td>
-            <td>Email <a href="mailto:michelle@lincolnroadchapel.ca">michelle@lincolnroadchapel.ca</a> for dates, times and locations.</td>
-        </tr>
     </table>
     <h3>Kitchener Celebrate Recovery</h3>
     <table>
@@ -151,31 +122,6 @@
         <tr>
             <td>Contact:</td>
             <td>Joe Graham at 519-724-0265 or <a href="mailto:jgraham@creeksidechurch.ca">jgraham@creeksidechurch.ca</a></td>
-        </tr>
-        <tr>
-            <td>Format:</td>
-            <td>6:00 pm - Dinner (all ages welcome)<br>
-                7:00 pm - Adult Large Group<br>
-                8:00 pm - Confidential Open Share Groups<br>
-                7:00 pm - Kids (13 and under): Celebration Station and Nursery<br>
-                7:00 pm - Youth: The Landing<br>
-                9:00 pm - Cafe</td>
-        </tr>
-        <tr>
-            <td>Open Share Groups: </td>
-            <td>
-                <ul class="CR-groups">
-                    <li>Hurts, Habits and Hang-ups for women</li>
-                    <li>Hurts, Habits and Hang-ups for men</li>
-                    <li>Addictions for men</li>
-                    <li>Addictions for women</li>
-                    <li>Celebrate Recovery 101 for new participants each week</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>Step Studies:</td>
-            <td>Email <a href="mailto:michelle@lincolnroadchapel.ca">michelle@lincolnroadchapel.ca</a> for dates, times and locations.</td>
         </tr>
     </table>
 
