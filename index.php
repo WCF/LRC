@@ -17,8 +17,8 @@
 
 <div id="campfireImg" alt=""/>
     <div>
-        A place where <b>you</b> matter<br>
-        and <b>Jesus</b> is the main attraction
+        A place where <strong>you</strong> matter<br>
+        and <strong>Jesus</strong> is the main attraction
     </div>
 </div>
 
